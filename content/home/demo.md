@@ -47,4 +47,4 @@ subtitle = ""
  css_class = ""
 +++
 
-We are a team of young scientists performing multi-disciplinary research ranging from classical epidemiology to multi-omics analysis. In addition to general cardiovascular epidemiology, our research focuses on the epidemiology of hypertension in large scale population cohorts.
+We are a team of scientists at THL and University of Turku performing multi-disciplinary research ranging from classical epidemiology to multi-omics analysis. In addition to general cardiovascular epidemiology, our research focuses on the epidemiology of hypertension in large scale population cohorts.
