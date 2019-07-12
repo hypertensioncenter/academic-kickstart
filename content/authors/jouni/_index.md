@@ -26,7 +26,7 @@ name: Jouni Johansson
 #organizations:
 #- name: ""
 #  url: ""
-#role: Post-Doctoral Researcher
+role: Adjunct professor, General practitioner
 social:
 #- icon: envelope
 #  icon_pack: fas

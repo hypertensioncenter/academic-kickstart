@@ -18,9 +18,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #    institution: University of Turku
 #    year: 2005
 #email: "tejuni@utu.fi"
-#interests:
-#- Cardiovascular Epidemiology
-#- Hypertension
+interests:
+- Metabolome
+- Microbiome
 #- Multi-omics
 name: Joonatan Palmu
 #organizations:

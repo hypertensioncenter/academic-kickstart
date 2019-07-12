@@ -18,8 +18,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #    institution: University of Turku
 #    year: 2005
 #email: "tejuni@utu.fi"
-#interests:
-#- Cardiovascular Epidemiology
+interests:
+- Age of hypertension onset
 #- Hypertension
 #- Multi-omics
 name: Karri Suvila

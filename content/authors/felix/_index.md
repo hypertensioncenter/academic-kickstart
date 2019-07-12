@@ -1,6 +1,6 @@
 ---
 authors:
-- saana
+- felix
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 #education:
@@ -19,10 +19,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #    year: 2005
 #email: "tejuni@utu.fi"
 interests:
-- Retirement and blood pressure
-#- Hypertension
+- Genetic and phenotypic clustering of hypertension
 #- Multi-omics
-name: Saana Karelius
+name: Felix Vaura
 #organizations:
 #- name: ""
 #  url: ""

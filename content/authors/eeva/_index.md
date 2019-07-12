@@ -26,7 +26,7 @@ name: Eeva Juhanoja
 #organizations:
 #- name: ""
 #  url: ""
-#role: Post-Doctoral Researcher
+role: Oncology resident
 social:
 #- icon: envelope
 #  icon_pack: fas
