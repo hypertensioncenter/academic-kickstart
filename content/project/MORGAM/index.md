@@ -7,5 +7,5 @@ image:
 summary: A consortium of 26 European cardiovascular disease cohort studies with >300,000 participants.
 tags:
 - Demo
-title: MORGAM/BiomarCAre
+title: MORGAM / BiomarCAre
 ---
