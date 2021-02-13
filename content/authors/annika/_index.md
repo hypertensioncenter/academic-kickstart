@@ -18,15 +18,15 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #    institution: University of Turku
 #    year: 2005
 #email: "tejuni@utu.fi"
-interests:
-- Novel BP measurement methods
+#interests:
+#- Novel BP measurement methods
 #- Hypertension
 #- Multi-omics
 name: Annika Lindroos
 #organizations:
 #- name: ""
 #  url: ""
-#role: Post-Doctoral Researcher
+role: Nephrology fellow
 social:
 #- icon: envelope
 #  icon_pack: fas
