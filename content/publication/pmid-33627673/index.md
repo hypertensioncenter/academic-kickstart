@@ -1,0 +1,549 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: Genome-wide meta-analysis identifies 127 open-angle glaucoma loci with consistent
+  effect across ancestries
+subtitle: ''
+summary: ''
+authors:
+- P. Gharahkhani
+- E. Jorgenson
+- P. Hysi
+- A. P. Khawaja
+- S. Pendergrass
+- X. Han
+- J. S. Ong
+- A. W. Hewitt
+- A. V. Segrè
+- J. M. Rouhana
+- A. R. Hamel
+- R. P. Igo
+- H. Choquet
+- A. Qassim
+- N. S. Josyula
+- J. N. Cooke Bailey
+- P. W. M. Bonnemaijer
+- A. Iglesias
+- O. M. Siggs
+- T. L. Young
+- V. Vitart
+- A. A. H. J. Thiadens
+- J. Karjalainen
+- S. Uebe
+- R. B. Melles
+- K. S. Nair
+- R. Luben
+- M. Simcoe
+- N. Amersinghe
+- A. J. Cree
+- R. Hohn
+- A. Poplawski
+- L. J. Chen
+- S. S. Rong
+- T. Aung
+- E. N. Vithana
+- G. Tamiya
+- Y. Shiga
+- M. Yamamoto
+- T. Nakazawa
+- H. Currant
+- E. Birney
+- X. Wang
+- A. Auton
+- M. K. Lupton
+- N. G. Martin
+- A. Ashaye
+- O. Olawoye
+- S. E. Williams
+- S. Akafo
+- M. Ramsay
+- K. Hashimoto
+- Y. Kamatani
+- M. Akiyama
+- Y. Momozawa
+- P. J. Foster
+- P. T. Khaw
+- J. E. Morgan
+- N. G. Strouthidis
+- P. Kraft
+- J. H. Kang
+- C. P. Pang
+- F. Pasutto
+- P. Mitchell
+- A. J. Lotery
+- A. Palotie
+- C. van Duijn
+- J. L. Haines
+- C. Hammond
+- L. R. Pasquale
+- C. C. W. Klaver
+- M. Hauser
+- C. C. Khor
+- D. A. Mackey
+- M. Kubo
+- C. Y. Cheng
+- J. E. Craig
+- S. MacGregor
+- J. L. Wiggs
+- R. R. Allingham
+- M. Brilliant
+- D. L. Budenz
+- J. N. C. Bailey
+- J. H. Fingert
+- D. Gaasterland
+- T. Gaasterland
+- J. L. Haines
+- M. Hauser
+- R. K. Lee
+- P. R. Lichter
+- Y. Liu
+- S. Moroi
+- J. Myers
+- M. Pericak-Vance
+- A. Realini
+- D. Rhee
+- J. E. Richards
+- R. Ritch
+- J. S. Schuman
+- W. K. Scott
+- K. Singh
+- A. J. Sit
+- D. Vollrath
+- R. N. Weinreb
+- G. Wollstein
+- D. J. Zack
+- S. Sharma
+- S. Martin
+- T. Zhou
+- E. Souzeau
+- J. Landers
+- J. T. Fitzgerald
+- R. A. Mills
+- J. Craig
+- K. Burdon
+- S. L. Graham
+- R. J. Casson
+- I. Goldberg
+- A. J. White
+- P. R. Healey
+- D. A. Mackey
+- A. W. Hewitt
+- M. Shiono
+- K. Misumi
+- R. Kaieda
+- H. Harada
+- S. Minami
+- M. Emi
+- N. Emoto
+- H. Daida
+- K. Miyauchi
+- A. Murakami
+- S. Asai
+- M. Moriyama
+- Y. Takahashi
+- T. Fujioka
+- W. Obara
+- S. Mori
+- H. Ito
+- S. Nagayama
+- Y. Miki
+- A. Masumoto
+- A. Yamada
+- Y. Nishizawa
+- K. Kodama
+- H. Kutsumi
+- Y. Sugimoto
+- Y. Koretsune
+- H. Kusuoka
+- H. Yanaiag
+- A. Nagai
+- M. Hirata
+- Y. Kamatani
+- K. Muto
+- K. Matsuda
+- Y. Kiyohara
+- T. Ninomiya
+- A. Tamakoshi
+- Z. Yamagata
+- T. Mushiroda
+- Y. Murakami
+- K. Yuji
+- Y. Furukawa
+- H. Zembutsu
+- T. Tanaka
+- Y. Ohnishi
+- Y. Nakamura
+- A. Jalanko
+- J. Kaprio
+- K. Donner
+- M. Kaunisto
+- N. Mars
+- A. Dada
+- A. Shcherban
+- A. Ganna
+- A. Lehisto
+- E. Kilpeläinen
+- G. Brein
+- G. Awaisa
+- J. Harju
+- K. Pärn
+- P. Della Briotta Parolo
+- R. Kajanne
+- S. Lemmelä
+- T. P. Sipilä
+- T. Sipilä
+- U. Lyhs
+- V. Llorens
+- T. Niiranen
+- K. Kristiansson
+- L. Männikkö
+- M. G. Jiménez
+- M. Perola
+- R. Wong
+- T. Kilpi
+- T. Hiekkalinna
+- E. Järvensivu
+- E. Kaiharju
+- H. Mattsson
+- M. Laukkanen
+- P. Laiho
+- S. Lähteenmäki
+- T. Sistonen
+- S. Soini
+- A. Ziemann
+- A. Lehtonen
+- A. Lertratanakul
+- B. Georgantas
+- B. Riley-Gillis
+- D. Quarless
+- F. Rahimov
+- G. Heap
+- H. Jacob
+- J. Waring
+- J. W. Davis
+- N. Smaoui
+- R. Popovic
+- S. Esmaeeli
+- J. Waring
+- A. Matakidou
+- B. Challis
+- D. Close
+- S. Petrovski
+- A. Karlsson
+- J. Schleutker
+- K. Pulkki
+- P. Virolainen
+- L. Kallio
+- A. Mannermaa
+- S. Heikkinen
+- V. M. Kosma
+- C. Y. Chen
+- H. Runz
+- J. Liu
+- P. Bronson
+- S. John
+- S. Lahdenperä
+- S. Eaton
+- W. Zhou
+- M. Hendolin
+- O. Tuovila
+- R. Pakkanen
+- J. Maranville
+- K. Usiskin
+- M. Hochfeld
+- R. Plenge
+- R. Yang
+- S. Biswas
+- S. Greenberg
+- E. Laakkonen
+- J. Kononen
+- J. Paloneva
+- U. Kujala
+- T. Kuopio
+- J. Laukkanen
+- E. Kangasniemi
+- K. Savinainen
+- R. Laaksonen
+- M. Arvas
+- J. Ritari
+- J. Partanen
+- K. Hyvärinen
+- T. Wahlfors
+- A. Peterson
+- D. Oh
+- D. Chang
+- E. Teng
+- E. Strauss
+- G. Kerchner
+- H. Chen
+- H. Chen
+- J. Schutzman
+- J. Michon
+- J. Hunkapiller
+- M. McCarthy
+- N. Bowers
+- T. Lu
+- T. Bhangale
+- D. Pulford
+- D. Waterworth
+- D. Kulkarni
+- F. Xu
+- J. Betts
+- J. E. Gordillo
+- J. Hoffman
+- K. Auro
+- L. McCarthy
+- S. Ghosh
+- M. Ehm
+- K. Pitkänen
+- T. Mäkelä
+- A. Loukola
+- H. Joensuu
+- J. Sinisalo
+- K. Eklund
+- L. Aaltonen
+- M. Färkkilä
+- O. Carpen
+- P. Kauppi
+- P. Tienari
+- T. Ollila
+- T. Tuomi
+- T. Meretoja
+- A. Pitkäranta
+- J. Turunen
+- K. Hannula-Jouppi
+- S. Pikkarainen
+- S. Seitsonen
+- M. Koskinen
+- A. Palomäki
+- J. Rinne
+- K. Metsärinne
+- K. Elenius
+- L. Pirilä
+- L. Koulu
+- M. Voutilainen
+- M. Juonala
+- S. Peltonen
+- V. Aaltonen
+- A. Loboda
+- A. Podgornaia
+- A. Chhibber
+- A. Chu
+- C. Fox
+- D. Diogo
+- E. Holzinger
+- J. Eicher
+- P. Gormley
+- V. Mehta
+- X. Wang
+- J. Kettunen
+- K. Pylkäs
+- M. Kalaoja
+- M. Karjalainen
+- R. Hinttala
+- R. Kaarteenaho
+- S. Vainio
+- T. Mantere
+- A. Remes
+- J. Huhtakangas
+- J. Junttila
+- K. Tasanen
+- L. Huilaja
+- M. Luodonpää
+- N. Hautala
+- P. Karihtala
+- S. Kauppila
+- T. Harju
+- T. Blomster
+- H. Soininen
+- I. Harvima
+- J. Pihlajamäki
+- K. Kaarniranta
+- M. Pelkonen
+- M. Laakso
+- M. Hiltunen
+- M. Kiviniemi
+- O. Kaipiainen-Seppänen
+- P. Auvinen
+- R. Kälviäinen
+- V. Julkunen
+- A. Malarstig
+- Å. Hedman
+- C. Marshall
+- C. Whelan
+- H. Lehtonen
+- J. Parkkinen
+- K. Linden
+- K. Kalpala
+- M. Miller
+- N. Bing
+- S. McDonough
+- X. Chen
+- X. Hu
+- Y. Wu
+- A. Auranen
+- A. Jussila
+- H. Uusitalo-Järvinen
+- H. Kankaanranta
+- H. Uusitalo
+- J. Peltola
+- M. Kähönen
+- P. Isomäki
+- T. Laitinen
+- T. Salmi
+- A. Muslin
+- C. Wang
+- C. Chatelain
+- E. Xu
+- F. Auge
+- K. Call
+- K. Klinger
+- M. Crohns
+- M. Gossel
+- K. Palin
+- M. Rivas
+- H. Siirtola
+- J. G. Tabuenca
+- T. Aslam
+- S. Barman
+- J. Barrett
+- P. Bishop
+- C. Bunce
+- R. Carare
+- U. Chakravarthy
+- M. Chan
+- V. Cipriani
+- A. Day
+- P. Desai
+- B. Dhillon
+- A. Dick
+- C. Egan
+- S. Ennis
+- P. Foster
+- M. Fruttiger
+- J. Gallacher
+- D. Garway-Heath
+- J. Gibson
+- D. Gore
+- J. Guggenheim
+- A. Hardcastle
+- S. Harding
+- R. Hogg
+- P. A. Keane
+- P. T. Khaw
+- A. Khawaja
+- G. Lascaratos
+- A. J. Lotery
+- P. Luthert
+- T. Macgillivray
+- S. Mackie
+- B. Mcguinness
+- G. Mckay
+- M. Mckibbin
+- D. Mitry
+- T. Moore
+- J. Morgan
+- Z. Muthy
+- E. O'Sullivan
+- C. Owen
+- P. Patel
+- E. Paterson
+- T. Peto
+- A. Petzold
+- J. Rahi
+- A. Rudnicka
+- J. Self
+- S. Sivaprasad
+- D. Steel
+- I. Stratton
+- N. Strouthidis
+- C. Sudlow
+- C. Thaung
+- D. Thomas
+- E. Trucco
+- A. Tufail
+- S. Vernon
+- A. Viswanathan
+- C. Williams
+- K. Williams
+- J. Woodside
+- M. Yates
+- J. Yip
+- Y. Zheng
+- R. Tapp
+- D. Atan
+- A. Doney
+- N. Allen
+- T. Littlejohns
+- P. Sergouniotis
+- G. Black
+- N. Kanyaro
+- C. Ntomoka
+- J. J. Massaga
+- J. K. Ikungura
+- M. Agee
+- S. Aslibekyan
+- R. K. Bell
+- K. Bryc
+- S. K. Clark
+- S. L. Elson
+- K. Fletez-Brant
+- P. Fontanillas
+- N. A. Furlotte
+- P. M. Gandhi
+- K. Heilbron
+- B. Hicks
+- D. A. Hinds
+- K. E. Huber
+- E. M. Jewett
+- Y. Jiang
+- A. Kleinman
+- K. H. Lin
+- N. K. Litterman
+- J. C. McCreight
+- M. H. McIntyre
+- K. F. McManus
+- J. L. Mountain
+- S. V. Mozaffari
+- P. Nandakumar
+- E. S. Noblin
+- C. A. M. Northover
+- J. O'Connell
+- S. J. Pitts
+- G. D. Poznik
+- J. F. Sathirapongsasuti
+- A. J. Shastri
+- J. F. Shelton
+- S. Shringarpure
+- C. Tian
+- J. Y. Tung
+- R. J. Tunney
+- V. Vacic
+- A. S. Zare
+tags: []
+categories: []
+date: '2021-02-01'
+lastmod: 2021-03-29T13:52:48+03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-03-29T10:52:48.132516Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*Nat Commun*'
+---

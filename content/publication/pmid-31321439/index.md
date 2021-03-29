@@ -1,0 +1,419 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: 'National trends in total cholesterol obscure heterogeneous changes in HDL
+  and non-HDL cholesterol and total-to-HDL cholesterol ratio: a pooled analysis of
+  458 population-based studies in Asian and Western countries'
+subtitle: ''
+summary: ''
+authors:
+- C. Taddei
+- R. Jackson
+- B. Zhou
+- H. Bixby
+- G. Danaei
+- M. Di Cesare
+- K. Kuulasmaa
+- K. Hajifathalian
+- J. Bentham
+- J. E. Bennett
+- W. Aekplakorn
+- R. Cifkova
+- J. Dallongeville
+- D. DeBacquer
+- S. Giampaoli
+- V. Gudnason
+- Y. H. Khang
+- T. Laatikainen
+- J. Mann
+- P. Marques-Vidal
+- G. A. Mensah
+- M. Müller-Nurasyid
+- T. Ninomiya
+- J. Petkeviciene
+- F. Rodríguez-Artalejo
+- J. Servais
+- S. Söderberg
+- B. Stavreski
+- T. Wilsgaard
+- T. Zdrojewski
+- D. Zhao
+- G. A. Stevens
+- S. Savin
+- M. J. Cowan
+- L. M. Riley
+- M. Ezzati
+- R. J. Adams
+- W. Aekplakorn
+- W. Ahrens
+- P. Amouyel
+- A. Amuzu
+- S. A. Anderssen
+- I. Ariansen
+- D. Arveiler
+- T. Aspelund
+- J. Auvinen
+- M. Avdicová
+- M. Banach
+- P. Bandosz
+- J. R. Banegas
+- C. M. Barbagallo
+- I. Bata
+- L. A. Baur
+- R. Beaglehole
+- J. E. Bennett
+- G. Bernotiene
+- Y. Bi
+- A. Bienek
+- C. Björkelund
+- S. Bo
+- B. O. Boehm
+- M. Bonaccio
+- V. Bongard
+- R. Borchini
+- H. Borghs
+- J. Breckenkamp
+- H. Brenner
+- G. Bruno
+- M. A. Busch
+- A. Cabrera de León
+- V. Capuano
+- F. F. Casanueva
+- J. P. Casas
+- C. A. Caserta
+- L. Censi
+- F. Chen
+- S. Chen
+- M. D. Chirlaque
+- B. Cho
+- Y. Cho
+- J. Chudek
+- R. Cifkova
+- F. Claessens
+- J. Clarke
+- E. Clays
+- C. Cooper
+- S. Costanzo
+- D. Cottel
+- C. Cowell
+- A. B. Crujeiras
+- L. Cui
+- G. D'Arrigo
+- J. Dallongeville
+- L. Dauchet
+- G. De Backer
+- D. De Bacquer
+- G. de Gaetano
+- S. De Henauw
+- D. De Smedt
+- E. Dennison
+- V. Deschamps
+- A. DiCastelnuovo
+- A. J. Dobson
+- C. Donfrancesco
+- A. Döring
+- W. Drygas
+- Y. Du
+- E. Dziankowska-Zaborszczyk
+- R. Eggertsen
+- U. Ekelund
+- R. Elosua
+- J. G. Eriksson
+- A. Evans
+- D. Faeh
+- F. J. Felix-Redondo
+- D. Fernández-Bergés
+- M. Ferrari
+- J. Ferrieres
+- J. D. Finn
+- A. S. Forslund
+- M. Forsner
+- G. Frontera
+- Y. Fujita
+- Z. Gaciong
+- F. Galvano
+- J. Gao
+- M. Garcia-de-la-Hera
+- S. P. Garnett
+- J. M. Gaspoz
+- M. Gasull
+- L. Gates
+- S. Giampaoli
+- F. Gianfagna
+- T. K. Gill
+- J. Giovannelli
+- D. Goltzman
+- M. GonzalezGross
+- F. Gottrand
+- S. Graff-Iversen
+- D. Grafnetter
+- R. D. Gregor
+- T. Grodzicki
+- G. Grosso
+- G. Gruden
+- D. Gu
+- P. Guallar-Castillón
+- E. F. Gudmundsson
+- V. Gudnason
+- I. Guessous
+- J. Gunnlaugsdottir
+- F. Gutzwiller
+- R. Hardy
+- J. Hata
+- T. Haugsgjerd
+- A. J. Hayes
+- J. He
+- Y. He
+- S. Herrala
+- I. TapaniHihtaniemi
+- M. Hobbs
+- W. M. Hopman
+- J. MaríaHuerta
+- I. Huybrechts
+- L. Iacoviello
+- A. G. Iannone
+- N. Ikeda
+- M. Iwasaki
+- R. Jackson
+- K. Jamrozik
+- I. Janszky
+- M. R. Jarvelin
+- G. Jasienska
+- G. Jennings
+- S. L. Jeong
+- C. QiangJiang
+- M. Joffres
+- J. J. Jokelainen
+- J. B. Jonas
+- J. Jóźwiak
+- E. O. Kajantie
+- J. Kauhanen
+- U. Keil
+- S. Keinänen-Kiukaanniemi
+- M. Kersting
+- Y. H. Khang
+- U. Kiechl-Kohlendorfer
+- S. Kiechl
+- J. Kim
+- Y. Y. Kim
+- J. Klumbiene
+- M. Knoflach
+- S. Ko
+- E. Kolle
+- R. Korpelainen
+- S. Koskinen
+- K. Kouda
+- W. Kratzer
+- S. Kriemler
+- S. Krokstad
+- U. M. Kujala
+- P. Kurjata
+- K. Kuulasmaa
+- T. Laatikainen
+- T. HingLam
+- V. Lanska
+- G. Lappas
+- L. E. Laugsand
+- J. Lee
+- T. Lehtimäki
+- Y. Li
+- C. L. Lilly
+- X. Lin
+- L. Lind
+- L. Lissner
+- J. Liu
+- E. Lopez-Garcia
+- R. Lorbeer
+- J. EugenioLozano
+- D. Luksiene
+- A. Lundqvist
+- R. Lundqvist
+- P. Lytsy
+- G. Ma
+- S. Machi
+- S. Maggi
+- D. J. Magliano
+- J. Mann
+- E. Manzato
+- P. Marques-Vidal
+- E. B. Mathiesen
+- S. McLachlan
+- R. M. McLean
+- S. B. McLean
+- A. Meirhaeghe
+- C. Meisinger
+- P. Metcalf
+- J. Mi
+- J. C. Miller
+- L. A. Moreno
+- S. Morin
+- M. Mossakowska
+- M. L. Muiesan
+- M. Müller-Nurasyid
+- J. Mursu
+- H. Nakamura
+- J. Námešná
+- M. Nauck
+- E. MariaNavarrete-Muñoz
+- W. A. Neal
+- I. Nenko
+- T. J. Niiranen
+- G. Ning
+- T. Ninomiya
+- M. Noale
+- S. Norie
+- D. Noto
+- T. O'Neill
+- D. O'Reilly
+- K. Oh
+- Ö. Olafsson
+- F. MichelPaccaud
+- A. Pajak
+- L. Palmieri
+- F. Panza
+- W. R. Parnell
+- M. Peltonen
+- A. Peters
+- A. Petersmann
+- J. Petkeviciene
+- I. Pigeot
+- L. Pilotto
+- A. Piwonska
+- P. Plans-Rubió
+- M. Porta
+- J. F. Price
+- J. J. Puder
+- S. E. Puhakka
+- R. Radisauskas
+- O. Raitakari
+- R. Ramos
+- J. Redon
+- F. Rigo
+- F. Rodríguez-Artalejo
+- M. Rodriguez-Perez
+- D. Romaguera
+- K. Ronkainen
+- A. Rosengren
+- J. G. R. Roy
+- J. B. Ruidavets
+- M. Rutkowski
+- B. Salanave
+- D. Salmerón
+- V. Salomaa
+- J. T. Salonen
+- M. Salvetti
+- S. Sans
+- J. L. Saramies
+- K. U. Saum
+- C. Scheidt-Nave
+- A. Schienkiewitz
+- S. Schipf
+- C. O. Schmidt
+- B. Schöttker
+- S. Sebert
+- A. Sen
+- J. Servais
+- J. E. Shaw
+- K. Shibuya
+- D. WookShin
+- R. Shiri
+- J. Simons
+- L. A. Simons
+- M. Sjöström
+- J. Slowikowska-Hilczer
+- P. Slusarczyk
+- S. Söderberg
+- V. Solfrizzi
+- E. Sonestedt
+- A. Soumare
+- J. A. Staessen
+- M. G. Stathopoulou
+- B. Stavreski
+- J. Steene-Johannessen
+- P. Stehle
+- J. Stieber
+- D. Stöckl
+- J. Stokwiszewski
+- J. Sundström
+- P. Suriyawongpaisal
+- A. Tamosiunas
+- E. JooTan
+- A. Taylor
+- G. Tell
+- L. Thijs
+- H. Tolonen
+- R. Topór-Madry
+- M. JoséTormo
+- M. Torrent
+- S. Tsugane
+- T. P. Tuomainen
+- J. Tuomilehto
+- C. Tzourio
+- H. M. T. Uusitalo
+- K. Van Herck
+- D. Vanderschueren
+- D. Vanuzzo
+- L. Vatten
+- T. Vega
+- G. Veronesi
+- J. Vioque
+- J. Virtanen
+- S. Visvikis-Siest
+- P. Vollenweider
+- S. Voutilainen
+- M. Vrijheid
+- A. Wagner
+- A. Wagner
+- M. D. Wang
+- Q. Wang
+- Y. XingWang
+- S. G. Wannamethee
+- W. Wei
+- P. H. Whincup
+- A. Wiecek
+- J. Willeit
+- P. Willeit
+- T. Wilsgaard
+- B. Wojtyniak
+- A. Wong
+- M. Woodward
+- A. GiwercmanWu
+- F. C. Wu
+- S. Wu
+- H. Xu
+- L. Xu
+- W. Yan
+- X. Yang
+- X. Ye
+- A. Yoshihara
+- S. Zambon
+- T. Zdrojewski
+- D. Zhao
+- W. Zhao
+tags: []
+categories: []
+date: '2020-02-01'
+lastmod: 2021-03-29T13:53:33+03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-03-29T10:53:32.791228Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*Int J Epidemiol*'
+---
