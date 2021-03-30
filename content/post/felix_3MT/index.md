@@ -1,6 +1,6 @@
 ---
 authors:
-- admin
+- anni
 categories: []
 date: "2021-03-25"
 draft: false
@@ -13,12 +13,12 @@ image:
   preview_only: true  
 projects: []
 subtitle: ""
-summary: ""
+summary: " "
 tags: []
 title: "Felix Vaura Won the Three Minute Thesis Competition" 
 ---
 
-Doctoral Candidate Felix Vaura won the Three Minute Thesis competition organised by the University of Turku. Vaura’s presentation will represent the University of Turku in the international 3MT competition organised by the Coimbra Group for European universities.
+Doctoral Candidate Felix Vaura won the Three Minute Thesis competition organised by the University of Turku. Felix’s presentation will represent the University of Turku in the international 3MT competition organised by the Coimbra Group for European universities.
 
 {{< youtube _mL9O_3TwT8 >}}
 
