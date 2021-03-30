@@ -1,8 +1,8 @@
 ---
 authors:
 - matti
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable
+#  matter.
 #education:
 #  courses:
 #  - course: Fellowship in Cardiovascular Epidemiology

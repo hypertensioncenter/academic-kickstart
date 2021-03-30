@@ -1,0 +1,922 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: Repositioning of the global epicentre of non-optimal cholesterol
+subtitle: ''
+summary: ''
+authors:
+- C. Taddei
+- B. Zhou
+- H. Bixby
+- R. M. Carrillo-Larco
+- G. Danaei
+- R. T. Jackson
+- F. Farzadfar
+- M. K. Sophiea
+- M. Di Cesare
+- M. L. C. Iurilli
+- A. R. Martinez
+- G. Asghari
+- K. Dhana
+- P. Gulayin
+- S. Kakarmath
+- M. Santero
+- T. Voortman
+- L. M. Riley
+- M. J. Cowan
+- S. Savin
+- J. E. Bennett
+- G. A. Stevens
+- C. J. Paciorek
+- W. Aekplakorn
+- R. Cifkova
+- S. Giampaoli
+- A. P. Kengne
+- Y. H. Khang
+- K. Kuulasmaa
+- A. Laxmaiah
+- P. Margozzini
+- P. Mathur
+- B. G. Nordestgaard
+- D. Zhao
+- M. Aadahl
+- L. Abarca-Gómez
+- H. A. Rahim
+- N. M. Abu-Rmeileh
+- B. Acosta-Cazares
+- R. J. Adams
+- I. A. Agdeppa
+- J. Aghazadeh-Attari
+- C. A. Aguilar-Salinas
+- C. Agyemang
+- T. S. Ahluwalia
+- N. A. Ahmad
+- A. Ahmadi
+- N. Ahmadi
+- S. H. Ahmed
+- W. Ahrens
+- K. Ajlouni
+- M. Alarouj
+- F. AlBuhairan
+- S. AlDhukair
+- M. M. Ali
+- A. Alkandari
+- A. Alkerwi
+- E. Aly
+- D. N. Amarapurkar
+- P. Amouyel
+- L. B. Andersen
+- S. A. Anderssen
+- R. M. Anjana
+- A. Ansari-Moghaddam
+- H. Aounallah-Skhiri
+- J. Araújo
+- I. Ariansen
+- T. Aris
+- R. E. Arku
+- N. Arlappa
+- K. K. Aryal
+- T. Aspelund
+- M. C. F. Assunção
+- J. Auvinen
+- M. Avdicová
+- A. Azevedo
+- F. Azizi
+- M. Azmin
+- N. Balakrishna
+- M. Bamoshmoosh
+- M. Banach
+- P. Bandosz
+- J. R. Banegas
+- C. M. Barbagallo
+- A. Barceló
+- A. Barkat
+- I. Bata
+- A. M. Batieha
+- A. Batyrbek
+- L. A. Baur
+- R. Beaglehole
+- A. Belavendra
+- H. Ben Romdhane
+- M. Benet
+- M. Benn
+- S. Berkinbayev
+- A. Bernabe-Ortiz
+- G. Bernotiene
+- H. Bettiol
+- S. K. Bhargava
+- Y. Bi
+- A. Bienek
+- M. Bikbov
+- B. Bista
+- P. Bjerregaard
+- E. Bjertness
+- M. B. Bjertness
+- C. Björkelund
+- K. V. Bloch
+- A. Blokstra
+- S. Bo
+- B. O. Boehm
+- J. G. Boggia
+- C. P. Boissonnet
+- M. Bonaccio
+- V. Bongard
+- R. Borchini
+- H. Borghs
+- P. Bovet
+- I. Brajkovich
+- J. Breckenkamp
+- H. Brenner
+- L. M. Brewster
+- G. Bruno
+- A. Bugge
+- M. A. Busch
+- A. C. de León
+- J. Cacciottolo
+- G. Can
+- A. P. C. Cândido
+- M. V. Capanzana
+- E. Capuano
+- V. Capuano
+- V. C. Cardoso
+- J. Carvalho
+- F. F. Casanueva
+- L. Censi
+- C. A. Chadjigeorgiou
+- S. Chamukuttan
+- N. Chaturvedi
+- C. J. Chen
+- F. Chen
+- S. Chen
+- C. Y. Cheng
+- B. Cheraghian
+- A. Chetrit
+- S. T. Chiou
+- M. D. Chirlaque
+- B. Cho
+- Y. Cho
+- J. Chudek
+- F. Claessens
+- J. Clarke
+- E. Clays
+- H. Concin
+- S. C. Confortin
+- C. Cooper
+- S. Costanzo
+- D. Cottel
+- C. Cowell
+- A. B. Crujeiras
+- S. Csilla
+- L. Cui
+- F. V. Cureau
+- G. D'Arrigo
+- E. d'Orsi
+- J. Dallongeville
+- A. Damasceno
+- R. Dankner
+- T. M. Dantoft
+- L. Dauchet
+- K. Davletov
+- G. De Backer
+- D. De Bacquer
+- G. de Gaetano
+- S. De Henauw
+- P. D. de Oliveira
+- D. De Ridder
+- D. De Smedt
+- M. Deepa
+- A. D. Deev
+- A. Dehghan
+- H. Delisle
+- E. Dennison
+- V. Deschamps
+- M. Dhimal
+- A. F. Di Castelnuovo
+- Z. Dika
+- S. Djalalinia
+- A. J. Dobson
+- C. Donfrancesco
+- S. P. Donoso
+- A. Döring
+- M. Dorobantu
+- N. Dragano
+- W. Drygas
+- Y. Du
+- C. A. Duante
+- R. B. Duda
+- V. Dzerve
+- E. Dziankowska-Zaborszczyk
+- R. Eddie
+- E. Eftekhar
+- R. Eggertsen
+- S. Eghtesad
+- G. Eiben
+- U. Ekelund
+- J. El Ati
+- D. Eldemire-Shearer
+- M. Eliasen
+- R. Elosua
+- R. T. Erasmus
+- R. Erbel
+- C. Erem
+- L. Eriksen
+- J. G. Eriksson
+- J. Escobedo-de la Peña
+- S. Eslami
+- A. Esmaeili
+- A. Evans
+- D. Faeh
+- C. H. Fall
+- E. Faramarzi
+- M. Farjam
+- M. R. Fattahi
+- F. J. Felix-Redondo
+- T. S. Ferguson
+- D. Fernández-Bergés
+- D. Ferrante
+- M. Ferrari
+- C. Ferreccio
+- J. Ferrieres
+- B. Föger
+- L. H. Foo
+- A. S. Forslund
+- M. Forsner
+- H. M. Fouad
+- D. K. Francis
+- M. do Carmo Franco
+- O. H. Franco
+- G. Frontera
+- Y. Fujita
+- M. Fumihiko
+- T. Furusawa
+- Z. Gaciong
+- F. Galvano
+- J. Gao
+- M. Garcia-de-la-Hera
+- S. P. Garnett
+- J. M. Gaspoz
+- M. Gasull
+- A. Gazzinelli
+- J. M. Geleijnse
+- A. Ghanbari
+- E. Ghasemi
+- O. F. Gheorghe-Fronea
+- A. Ghimire
+- F. Gianfagna
+- T. K. Gill
+- J. Giovannelli
+- G. Gironella
+- A. Giwercman
+- D. Goltzman
+- H. Gonçalves
+- D. A. Gonzalez-Chica
+- M. Gonzalez-Gross
+- J. P. González-Rivas
+- C. González-Villalpando
+- M. E. González-Villalpando
+- A. R. Gonzalez
+- F. Gottrand
+- S. Graff-Iversen
+- D. Grafnetter
+- R. D. Gregor
+- T. Grodzicki
+- A. Grøntved
+- G. Grosso
+- G. Gruden
+- D. Gu
+- P. Guallar-Castillón
+- O. P. Guan
+- E. F. Gudmundsson
+- V. Gudnason
+- R. Guerrero
+- I. Guessous
+- J. Gunnlaugsdottir
+- R. Gupta
+- L. Gutierrez
+- F. Gutzwiller
+- S. Ha
+- F. Hadaegh
+- R. Haghshenas
+- H. Hakimi
+- I. R. Hambleton
+- B. Hamzeh
+- S. Hantunen
+- R. H. Kumar
+- S. M. Hashemi-Shahri
+- J. Hata
+- T. Haugsgjerd
+- A. J. Hayes
+- J. He
+- Y. He
+- M. E. Hendriks
+- A. Henriques
+- S. Herrala
+- R. Heshmat
+- A. G. Hill
+- S. Y. Ho
+- S. C. Ho
+- M. Hobbs
+- A. Hofman
+- R. Homayounfar
+- W. M. Hopman
+- A. R. V. R. Horimoto
+- C. M. Hormiga
+- B. L. Horta
+- L. Houti
+- C. Howitt
+- T. T. Htay
+- A. S. Htet
+- M. M. T. Htike
+- J. M. Huerta
+- I. T. Huhtaniemi
+- M. Huisman
+- M. L. Hunsberger
+- A. S. Husseini
+- I. Huybrechts
+- N. Hwalla
+- L. Iacoviello
+- A. G. Iannone
+- M. M. Ibrahim
+- N. I. Wong
+- I. Iglesia
+- N. Ikeda
+- M. A. Ikram
+- V. Iotova
+- V. E. Irazola
+- T. Ishida
+- M. Islam
+- A. Al-Safi Ismail
+- M. Iwasaki
+- J. M. Jacobs
+- H. Y. Jaddou
+- T. Jafar
+- K. James
+- K. Jamrozik
+- I. Janszky
+- E. Janus
+- M. R. Jarvelin
+- G. Jasienska
+- A. Jelakovic
+- B. Jelakovic
+- G. Jennings
+- G. B. Jensen
+- S. L. Jeong
+- A. K. Jha
+- C. Q. Jiang
+- R. O. Jimenez
+- K. H. Jöckel
+- M. Joffres
+- J. J. Jokelainen
+- J. B. Jonas
+- T. Jørgensen
+- P. Joshi
+- F. Joukar
+- J. Józwiak
+- A. Juolevi
+- A. Kafatos
+- E. O. Kajantie
+- O. Kalter-Leibovici
+- N. A. Kamaruddin
+- P. R. Kamstrup
+- K. B. Karki
+- J. Katz
+- J. Kauhanen
+- P. Kaur
+- M. Kavousi
+- G. Kazakbaeva
+- U. Keil
+- S. Keinänen-Kiukaanniemi
+- R. Kelishadi
+- M. Keramati
+- A. Kerimkulova
+- M. Kersting
+- Y. S. Khader
+- D. Khalili
+- M. Khateeb
+- M. Kheradmand
+- A. Khosravi
+- U. Kiechl-Kohlendorfer
+- S. Kiechl
+- J. Killewo
+- H. C. Kim
+- J. Kim
+- Y. Y. Kim
+- J. Klumbiene
+- M. Knoflach
+- S. Ko
+- H. P. Kohler
+- I. V. Kohler
+- E. Kolle
+- P. Kolsteren
+- J. König
+- R. Korpelainen
+- P. Korrovits
+- J. Kos
+- S. Koskinen
+- K. Kouda
+- S. Kowlessur
+- W. Kratzer
+- S. Kriemler
+- P. L. Kristensen
+- S. Krokstad
+- D. Kromhout
+- U. M. Kujala
+- P. Kurjata
+- C. Kyobutungi
+- F. Z. Laamiri
+- T. Laatikainen
+- C. Lachat
+- Y. Laid
+- T. H. Lam
+- C. P. Lambrinou
+- V. Lanska
+- G. Lappas
+- B. Larijani
+- T. S. Latt
+- L. E. Laugsand
+- M. Lazo-Porras
+- J. Lee
+- J. Lee
+- N. Lehmann
+- T. Lehtimäki
+- N. S. Levitt
+- Y. Li
+- C. L. Lilly
+- W. Y. Lim
+- M. F. Lima-Costa
+- H. H. Lin
+- X. Lin
+- Y. T. Lin
+- L. Lind
+- A. Linneberg
+- L. Lissner
+- J. Liu
+- H. M. Loit
+- E. Lopez-Garcia
+- T. Lopez
+- P. A. Lotufo
+- J. E. Lozano
+- D. Luksiene
+- A. Lundqvist
+- R. Lundqvist
+- N. Lunet
+- G. Ma
+- G. L. L. Machado-Coelho
+- A. M. Machado-Rodrigues
+- S. Machi
+- A. A. Madar
+- S. Maggi
+- D. J. Magliano
+- E. Magriplis
+- G. Mahasampath
+- B. Maire
+- M. Makdisse
+- F. Malekzadeh
+- R. Malekzadeh
+- K. M. Rao
+- Y. Manios
+- J. I. Mann
+- F. Mansour-Ghanaei
+- E. Manzato
+- P. Marques-Vidal
+- R. Martorell
+- L. P. Mascarenhas
+- E. B. Mathiesen
+- T. E. Matsha
+- C. Mavrogianni
+- S. R. McFarlane
+- S. T. McGarvey
+- S. McLachlan
+- R. M. McLean
+- S. B. McLean
+- B. A. McNulty
+- S. Mediene-Benchekor
+- P. Mehdipour
+- K. Mehlig
+- A. H. Mehrparvar
+- A. Meirhaeghe
+- C. Meisinger
+- A. M. B. Menezes
+- G. R. Menon
+- S. Merat
+- A. Mereke
+- I. I. Meshram
+- P. Metcalf
+- H. E. Meyer
+- J. Mi
+- N. Michels
+- J. C. Miller
+- C. S. Minderico
+- G. K. Mini
+- J. F. Miquel
+- J. J. Miranda
+- M. R. Mirjalili
+- E. Mirrakhimov
+- P. A. Modesti
+- S. S. Moghaddam
+- B. Mohajer
+- M. K. Mohamed
+- K. Mohammad
+- Z. Mohammadi
+- N. Mohammadifard
+- R. Mohammadpourhodki
+- V. Mohan
+- S. Mohanna
+- M. F. M. Yusoff
+- I. Mohebbi
+- F. Mohebi
+- M. Moitry
+- L. T. Møllehave
+- N. C. Møller
+- D. Molnár
+- A. Momenan
+- C. K. Mondo
+- E. Monterrubio-Flores
+- M. Moosazadeh
+- A. Morejon
+- L. A. Moreno
+- K. Morgan
+- S. N. Morin
+- G. Moschonis
+- M. Mossakowska
+- A. Mostafa
+- J. Mota
+- M. E. Motlagh
+- J. Motta
+- K. P. Msyamboza
+- M. L. Muiesan
+- M. Müller-Nurasyid
+- J. Mursu
+- N. Mustafa
+- I. Nabipour
+- S. Naderimagham
+- G. Nagel
+- B. M. Naidu
+- F. Najafi
+- H. Nakamura
+- J. Námešná
+- E. E. K. Nang
+- V. B. Nangia
+- M. Nauck
+- W. A. Neal
+- A. Nejatizadeh
+- I. Nenko
+- F. Nervi
+- N. D. Nguyen
+- Q. N. Nguyen
+- R. E. Nieto-Martínez
+- T. Nihal
+- T. J. Niiranen
+- G. Ning
+- T. Ninomiya
+- M. Noale
+- O. A. Noboa
+- D. Noto
+- M. A. Nsour
+- I. Nuhoğlu
+- T. W. O'Neill
+- D. O'Reilly
+- A. M. Ochoa-Avilés
+- K. Oh
+- R. Ohtsuka
+- Ö. Olafsson
+- V. Olié
+- I. O. Oliveira
+- M. A. Omar
+- A. Onat
+- S. K. Ong
+- P. Ordunez
+- R. Ornelas
+- P. J. Ortiz
+- C. Osmond
+- S. M. Ostojic
+- A. Ostovar
+- J. A. Otero
+- E. Owusu-Dabo
+- F. M. Paccaud
+- E. Pahomova
+- A. Pajak
+- L. Palmieri
+- W. H. Pan
+- S. Panda-Jonas
+- F. Panza
+- W. R. Parnell
+- N. D. Patel
+- N. Peer
+- S. V. Peixoto
+- M. Peltonen
+- A. C. Pereira
+- A. Peters
+- A. Petersmann
+- J. Petkeviciene
+- N. Peykari
+- S. T. Pham
+- R. N. Pichardo
+- I. Pigeot
+- A. Pilav
+- L. Pilotto
+- A. Piwonska
+- A. N. Pizarro
+- P. Plans-Rubió
+- S. Plata
+- H. Pohlabeln
+- M. Porta
+- M. L. P. Portegies
+- A. Poudyal
+- F. Pourfarzi
+- H. Poustchi
+- R. Pradeepa
+- J. F. Price
+- R. Providencia
+- J. J. Puder
+- S. E. Puhakka
+- M. Punab
+- M. Qorbani
+- T. Q. Bao
+- R. Radisauskas
+- S. Rahimikazerooni
+- O. Raitakari
+- S. R. Rao
+- A. Ramachandran
+- E. Ramos
+- R. Ramos
+- L. Rampal
+- S. Rampal
+- J. Redon
+- P. F. M. Reganit
+- L. Revilla
+- A. Rezaianzadeh
+- R. Ribeiro
+- A. Richter
+- F. Rigo
+- T. F. Rinke de Wit
+- F. Rodríguez-Artalejo
+- M. Del Cristo Rodriguez-Perez
+- L. A. Rodríguez-Villamizar
+- U. Roggenbuck
+- R. Rojas-Martinez
+- D. Romaguera
+- E. L. Romeo
+- A. Rosengren
+- J. G. R. Roy
+- A. Rubinstein
+- J. B. Ruidavets
+- B. S. Ruiz-Betancourt
+- P. Russo
+- P. Rust
+- M. Rutkowski
+- C. Sabanayagam
+- H. S. Sachdev
+- A. Sadjadi
+- A. R. Safarpour
+- S. Safiri
+- O. Saidi
+- N. Saki
+- B. Salanave
+- D. Salmerón
+- V. Salomaa
+- J. T. Salonen
+- M. Salvetti
+- J. Sánchez-Abanto
+- S. Sans
+- A. M. Santaliestra-Pasías
+- D. A. Santos
+- M. P. Santos
+- R. Santos
+- J. L. Saramies
+- L. B. Sardinha
+- N. Sarrafzadegan
+- K. U. Saum
+- S. C. Savva
+- N. Sawada
+- M. Sbaraini
+- M. Scazufca
+- B. D. Schaan
+- H. Schargrodsky
+- C. Scheidt-Nave
+- A. Schienkiewitz
+- S. Schipf
+- C. O. Schmidt
+- B. Schöttker
+- S. Schramm
+- S. Sebert
+- A. A. Sein
+- A. Sen
+- S. G. Sepanlou
+- J. Servais
+- R. Shakeri
+- S. A. Shalnova
+- T. Shamah-Levy
+- M. Sharafkhah
+- S. K. Sharma
+- J. E. Shaw
+- A. Shayanrad
+- Z. Shi
+- K. Shibuya
+- H. Shimizu-Furusawa
+- D. W. Shin
+- Y. Shin
+- M. Shirani
+- R. Shiri
+- N. Shrestha
+- K. Si-Ramlee
+- A. Siani
+- R. Siantar
+- A. M. Sibai
+- D. A. S. Silva
+- M. Simon
+- J. Simons
+- L. A. Simons
+- M. Sjöström
+- T. Skaaby
+- J. Slowikowska-Hilczer
+- P. Slusarczyk
+- L. Smeeth
+- M. B. Snijder
+- S. Söderberg
+- A. Soemantri
+- R. Sofat
+- V. Solfrizzi
+- M. H. Somi
+- E. Sonestedt
+- T. I. A. Sørensen
+- C. S. Jérome
+- A. Soumaré
+- K. Sozmen
+- K. Sparrenberger
+- J. A. Staessen
+- M. G. Stathopoulou
+- B. Stavreski
+- J. Steene-Johannessen
+- P. Stehle
+- A. D. Stein
+- J. Stessman
+- R. Stevanović
+- J. Stieber
+- D. Stöckl
+- J. Stokwiszewski
+- K. Stronks
+- M. W. Strufaldi
+- R. Suárez-Medina
+- C. A. Sun
+- J. Sundström
+- P. Suriyawongpaisal
+- R. G. Sy
+- R. C. Sylva
+- M. Szklo
+- E. S. Tai
+- A. Tamosiunas
+- E. J. Tan
+- M. R. Tarawneh
+- C. B. Tarqui-Mamani
+- A. Taylor
+- J. Taylor
+- G. S. Tell
+- T. Tello
+- K. R. Thankappan
+- L. Thijs
+- B. H. Thuesen
+- U. Toft
+- H. K. Tolonen
+- J. S. Tolstrup
+- M. Topbas
+- R. Topór-Madry
+- M. J. Tormo
+- M. J. Tornaritis
+- M. Torrent
+- L. Torres-Collado
+- P. Traissac
+- O. T. H. Trinh
+- J. Truthmann
+- S. Tsugane
+- M. K. Tulloch-Reid
+- T. P. Tuomainen
+- J. Tuomilehto
+- A. Tybjaerg-Hansen
+- C. Tzourio
+- P. Ueda
+- E. Ugel
+- H. Ulmer
+- B. Unal
+- H. M. T. Uusitalo
+- G. Valdivia
+- D. Valvi
+- R. M. van Dam
+- Y. T. van der Schouw
+- K. Van Herck
+- H. Van Minh
+- L. van Rossem
+- N. M. Van Schoor
+- I. G. M. van Valkengoed
+- D. Vanderschueren
+- D. Vanuzzo
+- A. Varbo
+- P. Varona-Pérez
+- S. K. Vasan
+- L. Vatten
+- T. Vega
+- T. Veidebaum
+- G. Velasquez-Melendez
+- S. J. Venero-Fernández
+- G. Veronesi
+- W. M. M. Verschuren
+- C. G. Victora
+- D. Vidiawati
+- L. Viet
+- S. Villalpando
+- J. Vioque
+- J. K. Virtanen
+- S. Visvikis-Siest
+- B. Viswanathan
+- T. Vlasoff
+- P. Vollenweider
+- A. Voutilainen
+- A. N. Wade
+- A. Wagner
+- J. Walton
+- W. M. W. Bebakar
+- W. N. W. Mohamud
+- M. D. Wang
+- N. Wang
+- Q. Wang
+- Y. X. Wang
+- Y. W. Wang
+- S. G. Wannamethee
+- N. Wedderkopp
+- W. Wei
+- P. H. Whincup
+- K. Widhalm
+- I. S. Widyahening
+- A. Wiecek
+- A. H. Wijga
+- R. J. Wilks
+- J. Willeit
+- P. Willeit
+- T. Wilsgaard
+- B. Wojtyniak
+- R. A. Wong-McClure
+- A. Wong
+- T. Y. Wong
+- J. Woo
+- M. Woodward
+- F. C. Wu
+- S. Wu
+- H. Xu
+- L. Xu
+- W. Yan
+- X. Yang
+- T. Yasuharu
+- X. Ye
+- T. P. Yeow
+- P. K. Yiallouros
+- M. Yoosefi
+- A. Yoshihara
+- S. L. You
+- N. O. Younger-Coleman
+- A. F. Yusoff
+- A. A. Zainuddin
+- S. R. Zakavi
+- M. R. Zali
+- F. Zamani
+- S. Zambon
+- A. Zampelas
+- K. K. Zaw
+- T. Zdrojewski
+- T. Z. Vrkic
+- Z. Y. Zhang
+- W. Zhao
+- S. Zhen
+- Y. Zheng
+- B. Zholdin
+- B. Zhussupov
+- N. Zoghlami
+- J. Z. Cisneros
+- E. W. Gregg
+- M. Ezzati
+tags: []
+categories: []
+date: '2020-06-01'
+lastmod: 2021-03-29T13:53:14+03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-03-29T10:53:13.930161Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*Nature*'
+---

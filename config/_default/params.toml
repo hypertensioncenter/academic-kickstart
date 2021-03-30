@@ -56,7 +56,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "tejuni@utu.fi"
 phone = ""
-address = "Mail address: Department of Internal Medicine, Turku University Hospital, P.O. Box 52, 20521 Turku, Finland; Visiting address: Vähä-Hämeenkatu 1, Turku"
+address = "Mail address: Department of Internal Medicine, University of Turku, P.O. Box 52, 20521 Turku; Visiting address: Turku University Hospital, building 11A, 4th floor."
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
@@ -91,11 +91,9 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 2
 map_api_key = ""
-latitude = "60.452459"
-longitude = "22.287365"
+latitude = "60.452808"
+longitude = "22.292074"
 zoom = 15
-
-
 
 ############################
 ## Plugins                ##
