@@ -15,7 +15,7 @@ projects: []
 subtitle: ""
 summary: " "
 tags: []
-title: "Karri Suvela awarded for a high impact paper" 
+title: "Karri Suvela Awarded for a High Impact Paper" 
 ---
 
 Doctoral Candidate Karri Suvela's paper "Early-but Not Late-Onset Hypertension Is Related to Midlife Cognitive Function" was selected as a High Impact Paper for Spring 2021. Editors of Hypertension select High Impact Papers to draw attention to the most important research published in the journal during the preceding 3 months.
