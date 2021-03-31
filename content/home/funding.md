@@ -1,5 +1,6 @@
 +++
-# Gallery section using the Blank widget and Gallery element (shortcode).
+# Banners for funders using the Blank widget.
+# Gallery had too high default image height so table of images was used instead; later we will modify the gallery shortcode.
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
