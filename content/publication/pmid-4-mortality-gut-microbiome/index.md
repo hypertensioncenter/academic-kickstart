@@ -5,15 +5,31 @@ title: Taxonomic signatures of cause-specific mortality risk in human gut microb
 subtitle: ''
 summary: ''
 authors:
-- A., Laitinen, V., Havulinna, A. S., Meric, G., Cheng, S., Perola, M., Valsta, L.,
-  Alfthan, G., Inouye, M., Watrous, J. D., Long, T., Salido, R. A. , Sanders, K.,
-  Brennan, C., Humphrey, G. C., Sanders, J. G., Jain, M., Jousilahti, P., Salomaa,
-  V., Knight, R., Lahti, L. Salosensaari
+- A. Salosensaari
+- V. Laitinen
+- A. S. Havulinna
+- G. Meric
+- S. Cheng
+- M. Perola
+- L. Valsta
+- G. Alfthan
+- M. Inouye
+- J. D. Watrous
+- T. Long
+- R. A. , Sanders, K. Salido
+- C. Brennan
+- G. C. Humphrey
+- J. G. Sanders
+- M. Jain
+- P. Jousilahti
+- V. Salomaa
+- R. Knight
+- L. Lahti
 - T. Niiranen
 tags: []
 categories: []
 date: '2021-05-01'
-lastmod: 2021-05-11T15:41:50+03:00
+lastmod: 2021-05-12T11:35:20+03:00
 featured: false
 draft: false
 
@@ -31,7 +47,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-11T12:41:49.467408Z'
+publishDate: '2021-05-12T08:35:19.260087Z'
 publication_types:
 - '2'
 abstract: ''
