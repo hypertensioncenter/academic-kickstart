@@ -1,35 +1,34 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Taxonomic signatures of cause-specific mortality risk in human gut microbiome
+title: Associations of healthy food choices with gut microbiota profiles
 subtitle: ''
 summary: ''
 authors:
+- K. K. Koponen
 - A. Salosensaari
-- V. Laitinen
+- M. O. Ruuskanen
 - A. S. Havulinna
-- G. Meric
-- S. Cheng
-- M. Perola
-- L. Valsta
-- G. Alfthan
-- M. Inouye
-- J. D. Watrous
-- T. Long
-- R. A. , Sanders, K. Salido
+- S. Männistö
+- P. Jousilahti
+- J. Palmu
+- R. Salido
+- K. Sanders
 - C. Brennan
 - G. C. Humphrey
 - J. G. Sanders
+- G. Meric
+- S. Cheng
+- M. Inouye
 - M. Jain
-- P. Jousilahti
-- V. Salomaa
+- T. J. Niiranen
+- L. M. Valsta
 - R. Knight
-- L. Lahti
-- T. Niiranen
+- V. V. Salomaa
 tags: []
 categories: []
 date: '2021-05-01'
-lastmod: 2021-05-12T11:35:20+03:00
+lastmod: 2021-06-10T15:25:58+03:00
 featured: false
 draft: false
 
@@ -47,9 +46,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-12T08:35:19.260087Z'
+publishDate: '2021-06-10T12:25:57.916301Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Nat Commun*'
+publication: '*Am J Clin Nutr*'
 ---
