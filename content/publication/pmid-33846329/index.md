@@ -1,0 +1,654 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: Chromosome Xq23 is associated with lower atherogenic lipid concentrations and
+  favorable cardiometabolic indices
+subtitle: ''
+summary: ''
+authors:
+- P. Natarajan
+- A. Pampana
+- S. E. Graham
+- S. E. Ruotsalainen
+- J. A. Perry
+- P. S. de Vries
+- J. G. Broome
+- J. P. Pirruccello
+- M. C. Honigberg
+- K. Aragam
+- B. Wolford
+- J. A. Brody
+- L. Antonacci-Fulton
+- M. Arden
+- S. Aslibekyan
+- T. L. Assimes
+- C. M. Ballantyne
+- L. F. Bielak
+- J. C. Bis
+- B. E. Cade
+- R. Do
+- H. Doddapaneni
+- L. S. Emery
+- Y. J. Hung
+- M. R. Irvin
+- A. T. Khan
+- L. Lange
+- J. Lee
+- R. N. Lemaitre
+- L. W. Martin
+- G. Metcalf
+- M. E. Montasser
+- J. Y. Moon
+- D. Muzny
+- J. R. O'Connell
+- N. D. Palmer
+- J. M. Peralta
+- P. A. Peyser
+- A. M. Stilp
+- M. Tsai
+- F. F. Wang
+- D. E. Weeks
+- L. R. Yanek
+- J. G. Wilson
+- G. Abecasis
+- D. K. Arnett
+- L. C. Becker
+- J. Blangero
+- E. Boerwinkle
+- D. W. Bowden
+- Y. C. Chang
+- Y. I. Chen
+- W. J. Choi
+- A. Correa
+- J. E. Curran
+- M. J. Daly
+- S. K. Dutcher
+- P. T. Ellinor
+- M. Fornage
+- B. I. Freedman
+- S. Gabriel
+- S. Germer
+- R. A. Gibbs
+- J. He
+- K. Hveem
+- G. P. Jarvik
+- R. C. Kaplan
+- S. L. R. Kardia
+- E. Kenny
+- R. W. Kim
+- C. Kooperberg
+- C. C. Laurie
+- S. Lee
+- D. M. Lloyd-Jones
+- R. J. F. Loos
+- S. A. Lubitz
+- R. A. Mathias
+- K. A. V. Martinez
+- S. T. McGarvey
+- B. D. Mitchell
+- D. A. Nickerson
+- K. E. North
+- A. Palotie
+- C. J. Park
+- B. M. Psaty
+- D. C. Rao
+- S. Redline
+- A. P. Reiner
+- D. Seo
+- J. S. Seo
+- A. V. Smith
+- R. P. Tracy
+- R. S. Vasan
+- S. Kathiresan
+- L. A. Cupples
+- J. I. Rotter
+- A. C. Morrison
+- S. S. Rich
+- S. Ripatti
+- C. Willer
+- G. M. Peloso
+- N. Abe
+- C. Albert
+- L. Almasy
+- A. Alonso
+- S. Ament
+- P. Anderson
+- P. Anugu
+- D. Applebaum-Bowden
+- D. Arking
+- A. Ashley-Koch
+- P. Auer
+- D. Avramopoulos
+- J. Barnard
+- K. Barnes
+- R. G. Barr
+- E. Barron-Casella
+- T. Beaty
+- D. Becker
+- R. Beer
+- F. Begum
+- A. Beitelshees
+- E. Benjamin
+- M. Bezerra
+- L. Bielak
+- T. Blackwell
+- R. Bowler
+- U. Broeckel
+- K. Bunting
+- E. Burchard
+- E. Buth
+- J. Cardwell
+- C. Carty
+- R. Casaburi
+- J. Casella
+- M. Chaffin
+- C. Chang
+- D. Chasman
+- S. Chavan
+- B. J. Chen
+- W. M. Chen
+- M. Cho
+- S. H. Choi
+- L. M. Chuang
+- M. Chung
+- M. P. Conomos
+- E. Cornell
+- C. Crandall
+- J. Crapo
+- J. Curtis
+- B. Custer
+- C. Damcott
+- D. Darbar
+- S. Das
+- S. David
+- C. Davis
+- M. Daya
+- M. de Andrade
+- M. DeBaun
+- R. Deka
+- D. DeMeo
+- S. Devine
+- Q. Duan
+- R. Duggirala
+- J. P. Durda
+- S. Dutcher
+- C. Eaton
+- L. Ekunwe
+- C. Farber
+- L. Farnam
+- T. Fingerlin
+- M. Flickinger
+- N. Franceschini
+- M. Fu
+- S. M. Fullerton
+- L. Fulton
+- W. Gan
+- Y. Gao
+- M. Gass
+- B. Gelb
+- X. P. Geng
+- C. Gignoux
+- M. Gladwin
+- D. Glahn
+- S. Gogarten
+- D. W. Gong
+- H. Goring
+- C. C. Gu
+- Y. Guan
+- X. Guo
+- J. Haessler
+- M. Hall
+- D. Harris
+- N. Hawley
+- B. Heavner
+- S. Heckbert
+- R. Hernandez
+- D. Herrington
+- C. Hersh
+- B. Hidalgo
+- J. Hixson
+- J. Hokanson
+- E. Hong
+- K. Hoth
+- C. A. Hsiung
+- H. Huston
+- C. M. Hwu
+- R. Jackson
+- D. Jain
+- C. Jaquish
+- M. A. Jhun
+- J. Johnsen
+- A. Johnson
+- C. Johnson
+- R. Johnston
+- K. Jones
+- H. M. Kang
+- L. Kaufman
+- S. Kelly
+- M. Kessler
+- G. Kinney
+- B. Konkle
+- H. Kramer
+- S. Krauter
+- C. Lange
+- E. Lange
+- C. Laurie
+- M. LeBoff
+- S. S. Lee
+- W. J. Lee
+- J. LeFaive
+- D. Levine
+- D. Levy
+- J. Lewis
+- Y. Li
+- H. Lin
+- K. H. Lin
+- X. Lin
+- S. Liu
+- Y. Liu
+- K. Lunetta
+- J. Luo
+- M. Mahaney
+- B. Make
+- A. Manichaikul
+- J. Manson
+- L. Margolin
+- S. Mathai
+- P. McArdle
+- M. L. McDonald
+- S. McFarland
+- C. McHugh
+- H. Mei
+- D. A. Meyers
+- J. Mikulla
+- N. Min
+- M. Minear
+- R. L. Minster
+- S. Musani
+- S. Mwasongwe
+- J. C. Mychaleckyj
+- G. Nadkarni
+- R. Naik
+- T. Naseri
+- S. Nekhai
+- S. C. Nelson
+- D. Nickerson
+- J. O'Connell
+- T. O'Connor
+- H. Ochs-Balcom
+- J. Pankow
+- G. Papanicolaou
+- M. Parker
+- A. Parsa
+- S. Penchev
+- M. Perez
+- U. Peters
+- L. S. Phillips
+- S. Phillips
+- T. Pollin
+- W. Post
+- J. P. Becker
+- M. P. Boorgula
+- M. Preuss
+- D. Prokopenko
+- P. Qasba
+- D. Qiao
+- Z. Qin
+- N. Rafaels
+- L. Raffield
+- L. Rasmussen-Torvik
+- A. Ratan
+- R. Reed
+- E. Regan
+- M. S. Reupena
+- K. Rice
+- D. Roden
+- C. Roselli
+- I. Ruczinski
+- P. Russell
+- S. Ruuska
+- K. Ryan
+- E. C. Sabino
+- P. Sakornsakolpat
+- S. Salimi
+- S. Salzberg
+- K. Sandow
+- V. G. Sankaran
+- C. Scheller
+- E. Schmidt
+- K. Schwander
+- D. Schwartz
+- F. Sciurba
+- C. Seidman
+- J. Seidman
+- V. Sheehan
+- A. Shetty
+- A. Shetty
+- W. H. Sheu
+- M. B. Shoemaker
+- B. Silver
+- E. Silverman
+- J. Smith
+- J. Smith
+- N. Smith
+- T. Smith
+- S. Smoller
+- B. Snively
+- T. Sofer
+- N. Sotoodehnia
+- E. Streeten
+- J. L. Su
+- Y. J. Sung
+- J. Sylvia
+- A. Szpiro
+- C. Sztalryd
+- D. Taliun
+- H. Tang
+- M. Taub
+- K. D. Taylor
+- S. Taylor
+- M. Telen
+- T. A. Thornton
+- L. Tinker
+- D. Tirschwell
+- H. Tiwari
+- D. Vaidya
+- P. VandeHaar
+- S. Vrieze
+- T. Walker
+- R. Wallace
+- A. Walts
+- E. Wan
+- H. Wang
+- K. Watson
+- B. Weir
+- S. Weiss
+- L. C. Weng
+- K. Williams
+- L. K. Williams
+- C. Wilson
+- Q. Wong
+- H. Xu
+- I. Yang
+- R. Yang
+- N. Zaghloul
+- M. Zekavat
+- Y. Zhang
+- S. X. Zhao
+- W. Zhao
+- D. Zhi
+- X. Zhou
+- X. Zhu
+- M. Zody
+- S. Zoellner
+- A. Palotie
+- M. Daly
+- H. Jacob
+- A. Matakidou
+- H. Runz
+- S. John
+- R. Plenge
+- M. McCarthy
+- J. Hunkapiller
+- M. Ehm
+- D. Waterworth
+- C. Fox
+- A. Malarstig
+- K. Klinger
+- K. Call
+- T. Mkel
+- J. Kaprio
+- P. Virolainen
+- K. Pulkki
+- T. Kilpi
+- M. Perola
+- J. Partanen
+- A. Pitkranta
+- R. Kaarteenaho
+- S. Vainio
+- K. Savinainen
+- V. M. Kosma
+- U. Kujala
+- O. Tuovila
+- M. Hendolin
+- R. Pakkanen
+- J. Waring
+- B. Riley-Gillis
+- J. Liu
+- S. Biswas
+- D. Diogo
+- C. Marshall
+- X. Hu
+- M. Gossel
+- S. Ripatti
+- J. Schleutker
+- M. Arvas
+- O. Carpen
+- R. Hinttala
+- J. Kettunen
+- R. Laaksonen
+- A. Mannermaa
+- J. Paloneva
+- H. Soininen
+- V. Julkunen
+- A. Remes
+- R. Klviinen
+- M. Hiltunen
+- J. Peltola
+- P. Tienari
+- J. Rinne
+- A. Ziemann
+- J. Waring
+- S. Esmaeeli
+- N. Smaoui
+- A. Lehtonen
+- S. Eaton
+- S. Lahdenper
+- J. Michon
+- G. Kerchner
+- N. Bowers
+- E. Teng
+- J. Eicher
+- V. Mehta
+- P. Gormley
+- K. Linden
+- C. Whelan
+- F. Xu
+- D. Pulford
+- M. Frkkil
+- S. Pikkarainen
+- A. Jussila
+- T. Blomster
+- M. Kiviniemi
+- M. Voutilainen
+- B. Georgantas
+- G. Heap
+- F. Rahimov
+- K. Usiskin
+- J. Maranville
+- T. Lu
+- D. Oh
+- K. Kalpala
+- M. Miller
+- L. McCarthy
+- K. Eklund
+- A. Palomki
+- P. Isomki
+- L. Piril
+- O. Kaipiainen-Seppnen
+- J. Huhtakangas
+- A. Lertratanakul
+- D. Close
+- M. Hochfeld
+- N. Bing
+- J. E. Gordillo
+- N. Mars
+- T. Laitinen
+- M. Pelkonen
+- P. Kauppi
+- H. Kankaanranta
+- T. Harju
+- S. Greenberg
+- H. Chen
+- J. Betts
+- S. Ghosh
+- V. Salomaa
+- T. Niiranen
+- M. Juonala
+- K. Metsrinne
+- M. Khnen
+- J. Junttila
+- M. Laakso
+- J. Pihlajamki
+- J. Sinisalo
+- M. R. Taskinen
+- T. Tuomi
+- J. Laukkanen
+- B. Challis
+- A. Peterson
+- A. Chu
+- J. Parkkinen
+- A. Muslin
+- H. Joensuu
+- T. Meretoja
+- L. Aaltonen
+- A. Auranen
+- P. Karihtala
+- S. Kauppila
+- P. Auvinen
+- K. Elenius
+- R. Popovic
+- J. Schutzman
+- A. Loboda
+- A. Chhibber
+- H. Lehtonen
+- S. McDonough
+- M. Crohns
+- D. Kulkarni
+- K. Kaarniranta
+- J. Turunen
+- T. Ollila
+- S. Seitsonen
+- H. Uusitalo
+- V. Aaltonen
+- H. Uusitalo-Jrvinen
+- M. Luodonp
+- N. Hautala
+- E. Strauss
+- H. Chen
+- A. Podgornaia
+- J. Hoffman
+- K. Tasanen
+- L. Huilaja
+- K. Hannula-Jouppi
+- T. Salmi
+- S. Peltonen
+- L. Koulu
+- I. Harvima
+- Y. Wu
+- D. Choy
+- A. Jalanko
+- R. Kajanne
+- U. Lyhs
+- M. Kaunisto
+- J. W. Davis
+- D. Quarless
+- S. Petrovski
+- C. Y. Chen
+- P. Bronson
+- R. Yang
+- D. Chang
+- T. Bhangale
+- E. Holzinger
+- X. Wang
+- X. Chen
+- S. Hedman
+- K. Auro
+- C. Wang
+- E. Xu
+- F. Auge
+- C. Chatelain
+- M. Kurki
+- J. Karjalainen
+- A. Havulinna
+- K. Palin
+- P. Palta
+- P. D. B. Parolo
+- W. Zhou
+- S. Lemmel
+- M. Rivas
+- J. Harju
+- A. Lehisto
+- A. Ganna
+- V. Llorens
+- A. Karlsson
+- K. Kristiansson
+- K. Hyvrinen
+- J. Ritari
+- T. Wahlfors
+- M. Koskinen
+- K. Pylks
+- M. Kalaoja
+- M. Karjalainen
+- T. Mantere
+- E. Kangasniemi
+- S. Heikkinen
+- E. Laakkonen
+- J. Kononen
+- A. Loukola
+- P. Laiho
+- T. Sistonen
+- E. Kaiharju
+- M. Laukkanen
+- E. Jrvensivu
+- S. Lhteenmki
+- L. Mnnikk
+- R. Wong
+- H. Mattsson
+- T. Hiekkalinna
+- M. G. Jimnez
+- K. Donner
+- K. Prn
+- J. Nunez-Fontarnau
+- E. Kilpelinen
+- T. P. Sipil
+- G. Brein
+- A. Dada
+- G. Awaisa
+- A. Shcherban
+- T. Sipil
+- H. Laivuori
+- T. Kiiskinen
+- H. Siirtola
+- J. G. Tabuenca
+- L. Kallio
+- S. Soini
+- K. Pitknen
+- T. Kuopio
+tags: []
+categories: []
+date: '2021-04-01'
+lastmod: 2021-06-10T16:25:34+03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-06-10T13:25:34.184418Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*Nat Commun*'
+---
