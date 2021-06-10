@@ -1,0 +1,437 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: Hematopoietic mosaic chromosomal alterations increase the risk for diverse
+  types of infection
+subtitle: ''
+summary: ''
+authors:
+- S. M. Zekavat
+- S. H. Lin
+- A. G. Bick
+- A. Liu
+- K. Paruchuri
+- C. Wang
+- M. M. Uddin
+- Y. Ye
+- Z. Yu
+- X. Liu
+- Y. Kamatani
+- R. Bhattacharya
+- J. P. Pirruccello
+- A. Pampana
+- P. R. Loh
+- P. Kohli
+- S. A. McCarroll
+- K. Kiryluk
+- B. Neale
+- I. Ionita-Laza
+- E. A. Engels
+- D. W. Brown
+- J. W. Smoller
+- R. Green
+- E. W. Karlson
+- M. Lebo
+- P. T. Ellinor
+- S. T. Weiss
+- M. J. Daly
+- C. Terao
+- H. Zhao
+- B. L. Ebert
+- M. P. Reilly
+- A. Ganna
+- M. J. Machiela
+- G. Genovese
+- P. Natarajan
+- S. Koyama
+- K. Ito
+- Y. Momozawa
+- K. Matsuda
+- Y. Yamanashi
+- Y. Furukawa
+- T. Morisaki
+- Y. Murakami
+- K. Muto
+- A. Nagai
+- W. Obara
+- K. Yamaji
+- K. Takahashi
+- S. Asai
+- Y. Takahashi
+- T. Suzuki
+- N. Sinozaki
+- H. Yamaguchi
+- S. Minami
+- S. Murayama
+- K. Yoshimori
+- S. Nagayama
+- D. Obata
+- M. Higashiyama
+- A. Masumoto
+- Y. Koretsune
+- A. Palotie
+- A. Ziemann
+- A. Mitchell
+- A. Huertas-Vazquez
+- A. Salminen
+- A. Jussila
+- A. Havulinna
+- A. Mackay
+- A. Abbasi
+- A. Elliott
+- A. Cole
+- A. Shcherban
+- A. Mälarstig
+- A. Ganna
+- A. Loboda
+- A. Podgornaia
+- A. Lehtonen
+- A. Pitkäranta
+- A. Remes
+- A. Auranen
+- A. Hakanen
+- A. Palomäki
+- A. Jalanko
+- A. Loukola
+- A. Chhibber
+- A. Lertratanakul
+- A. Lehisto
+- A. Mannermaa
+- Å. Hedman
+- A. Chu
+- A. Madar
+- A. Ghazal
+- B. Challis
+- B. Sun
+- B. Cummings
+- B. Riley-Gillis
+- C. Fox
+- C. Y. Chen
+- C. Wang
+- C. Chatelain
+- D. Gordin
+- D. Quarless
+- D. Oh
+- D. Choy
+- D. Close
+- D. Pulford
+- D. Rice
+- D. Waterworth
+- D. Rajpal
+- D. Baird
+- D. Jambulingam
+- D. Chang
+- D. Kulkarni
+- D. Paul
+- D. Liu
+- E. Teng
+- E. Punkka
+- E. Ekholm
+- E. Kangasniemi
+- E. Laakkonen
+- E. Wigmore
+- E. Järvensivu
+- E. Kilpeläinen
+- E. Widen
+- E. Tsai
+- E. Mohammed
+- E. Strauss
+- E. Kvikstad
+- E. Pitkänen
+- E. Kaiharju
+- E. Xu
+- F. Xu
+- F. Rahimov
+- F. Vaura
+- F. Auge
+- G. Brein
+- G. Lassi
+- G. Heap
+- H. Laivuori
+- H. Mattsson
+- H. Uusitalo-Järvinen
+- H. Kankaanranta
+- H. Uusitalo
+- H. Chen
+- H. Siirtola
+- H. Joensuu
+- H. Runz
+- H. Lehtonen
+- H. Heyne
+- H. Soininen
+- H. Jacob
+- H. Chen
+- H. Y. Shen
+- H. Xu
+- I. Vähätalo
+- I. Kalliala
+- I. Tachmazidou
+- J. Kaprio
+- J. Parkkinen
+- J. Jacob
+- J. Kumar
+- J. van Adelsberg
+- J. Laukkanen
+- J. Ritari
+- J. Garcia-Tabuenca
+- J. Waring
+- J. Schutzman
+- J. Liu
+- J. Lee
+- J. Betts
+- J. Rämö
+- J. Huhtakangas
+- J. Mäkelä
+- J. Mattson
+- J. Schleutker
+- J. Kettunen
+- J. Eicher
+- J. Zierer
+- J. Chung
+- J. A. Turunen
+- J. E. Gordillo
+- J. Maranville
+- J. Karjalainen
+- J. Mehtonen
+- J. Rinne
+- J. Sinisalo
+- J. Junttila
+- J. Koskela
+- J. Partanen
+- J. Peltola
+- J. Hunkapiller
+- J. Pihlajamäki
+- J. Wade
+- J. Partanen
+- K. Mäkikallio
+- K. Kaarniranta
+- K. Tasanen
+- K. Metsärinne
+- K. Pärn
+- K. S. King
+- K. Eklund
+- K. Linden
+- K. Nieminen
+- K. Hannula-Jouppi
+- K. Call
+- K. Klinger
+- K. Donner
+- K. Hyvärinen
+- K. Kristiansson
+- K. Kivinen
+- K. Kaukinen
+- K. Pylkäs
+- K. de Lange
+- K. Usiskin
+- K. Palin
+- K. Shkura
+- K. Auro
+- K. Kalpala
+- K. Sipilä
+- K. Elenius
+- K. Tsuo
+- L. E. Lahtela
+- L. Addis
+- L. Huilaja
+- L. Kotaniemi-Talonen
+- L. Mustaniemi
+- L. Pirilä
+- L. Morin-Papunen
+- L. Aaltonen
+- L. Koulu
+- L. Suominen
+- L. Kallio
+- L. McCarthy
+- L. Aoxing
+- L. Männikkö
+- M. Obeidat
+- M. Rivas
+- M. Hautalahti
+- M. Pelkonen
+- M. Kaunisto
+- M. E. Niemi
+- M. Siponen
+- M. Crohns
+- M. Kalaoja
+- M. Luodonpää
+- M. Vääräsmäki
+- M. R. Taskinen
+- M. Tuppurainen
+- M. J. Daly
+- M. McCarthy
+- M. Laakso
+- M. Laukkanen
+- M. Voutilainen
+- M. Juonala
+- M. Perola
+- M. Hochfeld
+- M. Färkkilä
+- M. P. Reeve
+- M. Kanai
+- M. Brauer
+- M. Gossel
+- M. Peura
+- M. Ehm
+- M. Miller
+- M. Liu
+- M. Aavikko
+- M. Koskinen
+- M. Helminen
+- M. Kähönen
+- M. Arvas
+- M. Hiltunen
+- M. Kiviniemi
+- M. Caliskan
+- M. Karjalainen
+- M. Raivio
+- M. Koivusalo
+- M. Kurki
+- M. Maasha
+- N. Bing
+- N. Bowers
+- N. Raghavan
+- N. Renaud
+- N. Välimäki
+- N. Hautala
+- N. Mars
+- N. Pitkänen
+- N. Smaoui
+- O. Kaipiainen-Seppänen
+- O. Carpén
+- O. A. Dada
+- O. Soylemez
+- O. Heikinheimo
+- O. Tuovila
+- O. Uimari
+- P. Gormley
+- P. Auvinen
+- P. Laiho
+- P. Mäntylä
+- P. Polo
+- P. Bronson
+- P. Kauppi
+- P. Karihtala
+- P. Nieminen
+- P. Tienari
+- P. Virolainen
+- P. Isomäki
+- P. Della Briotta Parolo
+- P. Pussinen
+- P. Palta
+- R. Pakkanen
+- R. Serpi
+- R. Mishra
+- R. Hinttala
+- R. Kälviäinen
+- R. Wong
+- R. Popovic
+- R. Siegel
+- R. Lahesmaa
+- R. Kajanne
+- R. Graham
+- R. Plenge
+- R. Yang
+- R. Kallionpää
+- R. Tian
+- R. Miller
+- S. Esmaeeli
+- S. Kauppila
+- S. John
+- S. Heikkinen
+- S. Koskelainen
+- S. Wadhawan
+- S. Pikkarainen
+- S. Heron
+- S. Ripatti
+- S. Seitsonen
+- S. Lahdenperä
+- S. Ruotsalainen
+- S. Pendergrass
+- S. Smith
+- S. Vuoti
+- S. Hassan
+- S. Biswas
+- S. Luo
+- S. Rüeger
+- S. Lähteenmäki
+- S. Peltonen
+- S. Soini
+- S. Petrovski
+- S. Ghosh
+- S. McDonough
+- S. Loomis
+- S. Greenberg
+- S. Eaton
+- S. Lemmelä
+- T. H. Xia
+- T. Laitinen
+- T. Tukiainen
+- T. Salmi
+- T. Niiranen
+- T. Paajanen
+- T. Kuopio
+- T. Kilpi
+- T. Ollila
+- T. Hiekkalinna
+- T. Jyrhämä
+- T. Harju
+- T. Luukkaala
+- T. Tuomi
+- T. Behrens
+- T. Lu
+- T. Blomster
+- T. P. Sipilä
+- T. Southerington
+- T. Mäkelä
+- T. Kiiskinen
+- T. Mantere
+- T. Meretoja
+- T. Bhangale
+- T. Salo
+- T. Sistonen
+- U. Palotie
+- U. Gursoy
+- U. Kujala
+- V. Julkunen
+- V. Salomaa
+- V. M. Kosma
+- V. S. Rathinakannan
+- V. Kurra
+- V. Aaltonen
+- V. Neduva
+- V. Llorens
+- V. Sinha
+- V. Anttonen
+- W. Zhou
+- W. Fleuren
+- X. Chen
+- X. Hu
+- Y. Wu
+- Y. Huang
+tags: []
+categories: []
+date: '2021-06-01'
+lastmod: 2021-06-10T16:25:33+03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-06-10T13:25:32.765581Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*Nat Med*'
+---

@@ -1,0 +1,440 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: Inherited myeloproliferative neoplasm risk affects haematopoietic stem cells
+subtitle: ''
+summary: ''
+authors:
+- E. L. Bao
+- S. K. Nandakumar
+- X. Liao
+- A. G. Bick
+- J. Karjalainen
+- M. Tabaka
+- O. I. Gan
+- A. S. Havulinna
+- T. T. J. Kiiskinen
+- C. A. Lareau
+- A. L. de Lapuente Portilla
+- B. Li
+- C. Emdin
+- V. Codd
+- C. P. Nelson
+- C. J. Walker
+- C. Churchhouse
+- A. de la Chapelle
+- D. E. Klein
+- B. Nilsson
+- P. W. F. Wilson
+- K. Cho
+- S. Pyarajan
+- J. M. Gaziano
+- N. J. Samani
+- A. Regev
+- A. Palotie
+- B. M. Neale
+- J. E. Dick
+- P. Natarajan
+- C. J. O'Donnell
+- M. J. Daly
+- M. Milyavsky
+- S. Kathiresan
+- V. G. Sankaran
+- A. Palotie
+- M. Daly
+- H. Jacob
+- A. Matakidou
+- H. Runz
+- S. John
+- R. Plenge
+- M. McCarthy
+- J. Hunkapiller
+- M. Ehm
+- D. Waterworth
+- C. Fox
+- A. Malarstig
+- K. Klinger
+- K. Call
+- T. Mäkelä
+- J. Kaprio
+- P. Virolainen
+- K. Pulkki
+- T. Kilpi
+- M. Perola
+- J. Partanen
+- A. Pitkäranta
+- R. Kaarteenaho
+- S. Vainio
+- K. Savinainen
+- V. M. Kosma
+- U. Kujala
+- O. Tuovila
+- M. Hendolin
+- R. Pakkanen
+- J. Waring
+- B. Riley-Gillis
+- A. Matakidou
+- H. Runz
+- J. Liu
+- S. Biswas
+- J. Hunkapiller
+- D. Waterworth
+- M. Ehm
+- D. Diogo
+- C. Fox
+- A. Malarstig
+- C. Marshall
+- X. Hu
+- K. Call
+- K. Klinger
+- M. Gossel
+- S. Ripatti
+- J. Schleutker
+- M. Perola
+- M. Arvas
+- O. Carpén
+- R. Hinttala
+- J. Kettunen
+- R. Laaksonen
+- A. Mannermaa
+- U. Kujala
+- O. Tuovila
+- M. Hendolin
+- R. Pakkanen
+- H. Soininen
+- V. Julkunen
+- A. Remes
+- R. Kälviäinen
+- M. Hiltunen
+- J. Peltola
+- P. Tienari
+- J. Rinne
+- A. Ziemann
+- J. Waring
+- S. Esmaeeli
+- N. Smaoui
+- A. Lehtonen
+- S. Eaton
+- H. Runz
+- S. Lahdenperä
+- J. van Adelsberg
+- S. Biswas
+- J. Michon
+- G. Kerchner
+- J. Hunkapiller
+- N. Bowers
+- E. Teng
+- J. Eicher
+- V. Mehta
+- P. Gormley
+- K. Linden
+- C. Whelan
+- F. Xu
+- D. Pulford
+- M. Färkkilä
+- S. Pikkarainen
+- A. Jussila
+- T. Blomster
+- M. Kiviniemi
+- M. Voutilainen
+- B. Georgantas
+- G. Heap
+- J. Waring
+- N. Smaoui
+- F. Rahimov
+- A. Lehtonen
+- K. Usiskin
+- J. Maranville
+- T. Lu
+- N. Bowers
+- D. Oh
+- J. Michon
+- V. Mehta
+- K. Kalpala
+- M. Miller
+- X. Hu
+- L. McCarthy
+- K. Eklund
+- A. Palomäki
+- P. Isomäki
+- L. Pirilä
+- O. Kaipiainen-Seppänen
+- J. Huhtakangas
+- B. Georgantas
+- J. Waring
+- F. Rahimov
+- A. Lertratanakul
+- N. Smaoui
+- A. Lehtonen
+- D. Close
+- M. Hochfeld
+- N. Bowers
+- J. Michon
+- D. Diogo
+- V. Mehta
+- K. Kalpala
+- N. Bing
+- X. Hu
+- J. E. Gordillo
+- N. Mars
+- T. Laitinen
+- M. Pelkonen
+- P. Kauppi
+- H. Kankaanranta
+- T. Harju
+- N. Smaoui
+- D. Close
+- S. Greenberg
+- H. Chen
+- N. Bowers
+- J. Michon
+- V. Mehta
+- J. Betts
+- S. Ghosh
+- V. Salomaa
+- T. Niiranen
+- M. Juonala
+- K. Metsärinne
+- M. Kähönen
+- J. Junttila
+- M. Laakso
+- J. Pihlajamäki
+- J. Sinisalo
+- M. R. Taskinen
+- T. Tuomi
+- J. Laukkanen
+- B. Challis
+- A. Peterson
+- J. Hunkapiller
+- N. Bowers
+- J. Michon
+- D. Diogo
+- A. Chu
+- V. Mehta
+- J. Parkkinen
+- M. Miller
+- A. Muslin
+- D. Waterworth
+- H. Joensuu
+- T. Meretoja
+- O. Carpén
+- L. Aaltonen
+- A. Auranen
+- P. Karihtala
+- S. Kauppila
+- P. Auvinen
+- K. Elenius
+- R. Popovic
+- J. Waring
+- B. Riley-Gillis
+- A. Lehtonen
+- A. Matakidou
+- J. Schutzman
+- J. Hunkapiller
+- N. Bowers
+- J. Michon
+- V. Mehta
+- A. Loboda
+- A. Chhibber
+- H. Lehtonen
+- S. McDonough
+- M. Crohns
+- D. Kulkarni
+- K. Kaarniranta
+- J. Turunen
+- T. Ollila
+- S. Seitsonen
+- H. Uusitalo
+- V. Aaltonen
+- H. Uusitalo-Järvinen
+- M. Luodonpää
+- N. Hautala
+- H. Runz
+- E. Strauss
+- N. Bowers
+- H. Chen
+- J. Michon
+- A. Podgornaia
+- V. Mehta
+- D. Diogo
+- J. Hoffman
+- K. Tasanen
+- L. Huilaja
+- K. Hannula-Jouppi
+- T. Salmi
+- S. Peltonen
+- L. Koulu
+- I. Harvima
+- K. Kalpala
+- Y. Wu
+- D. Choy
+- J. Michon
+- N. Smaoui
+- F. Rahimov
+- A. Lehtonen
+- D. Waterworth
+- J. W. Davis
+- B. Riley-Gillis
+- D. Quarless
+- S. Petrovski
+- J. Liu
+- C. Y. Chen
+- P. Bronson
+- R. Yang
+- J. Maranville
+- S. Biswas
+- D. Chang
+- J. Hunkapiller
+- T. Bhangale
+- N. Bowers
+- D. Diogo
+- E. Holzinger
+- P. Gormley
+- X. Wang
+- X. Chen
+- Å. Hedman
+- K. Auro
+- C. Wang
+- E. Xu
+- F. Auge
+- C. Chatelain
+- M. Kurki
+- S. Ripatti
+- M. Daly
+- J. Karjalainen
+- A. Havulinna
+- A. Jalanko
+- K. Palin
+- P. Palta
+- P. Della Briotta Parolo
+- W. Zhou
+- S. Lemmelä
+- M. Rivas
+- J. Harju
+- A. Palotie
+- A. Lehisto
+- A. Ganna
+- V. Llorens
+- A. Karlsson
+- K. Kristiansson
+- M. Arvas
+- K. Hyvärinen
+- J. Ritari
+- T. Wahlfors
+- M. Koskinen
+- O. Carpén
+- J. Kettunen
+- K. Pylkäs
+- M. Kalaoja
+- M. Karjalainen
+- T. Mantere
+- E. Kangasniemi
+- S. Heikkinen
+- A. Mannermaa
+- E. Laakkonen
+- J. Kononen
+- L. Kallio
+- S. Soini
+- J. Partanen
+- K. Pitkänen
+- S. Vainio
+- K. Savinainen
+- V. M. Kosma
+- T. Kuopio
+- A. Jalanko
+- R. Kajanne
+- U. Lyhs
+- M. Kurki
+- J. Karjalainen
+- P. Della Briotta Parola
+- S. Rüeger
+- A. Lehistö
+- W. Zhou
+- M. Kanai
+- H. Laivuori
+- A. Havulinna
+- S. Lemmelä
+- T. Kiiskinen
+- M. Kaunisto
+- J. Harju
+- E. Kilpeläinen
+- T. P. Sipilä
+- G. Brein
+- O. A. Dada
+- G. Awaisa
+- A. Shcherban
+- T. Sipilä
+- K. Donner
+- A. Loukola
+- P. Laiho
+- T. Sistonen
+- E. Kaiharju
+- M. Laukkanen
+- E. Järvensivu
+- S. Lähteenmäki
+- L. Männikkö
+- R. Wong
+- H. Mattsson
+- K. Kristiansson
+- S. Lemmelä
+- T. Hiekkalinna
+- M. G. Jiménez
+- P. Palta
+- K. Pärn
+- J. Nunez-Fontarnau
+- T. Laitinen
+- H. Siirtola
+- J. G. Tabuenca
+- M. Agee
+- B. Alipanahi
+- A. Auton
+- R. K. Bell
+- K. Bryc
+- S. L. Elson
+- P. Fontanillas
+- N. A. Furlotte
+- D. A. Hinds
+- K. E. Huber
+- A. Kleinman
+- N. K. Litterman
+- J. C. McCreight
+- M. H. McIntyre
+- J. L. Mountain
+- E. S. Noblin
+- C. A. M. Northover
+- S. J. Pitts
+- J. F. Sathirapongsasuti
+- O. V. Sazonova
+- J. F. Shelton
+- S. Shringarpure
+- C. Tian
+- J. Y. Tung
+- V. Vacic
+- C. H. Wilson
+tags: []
+categories: []
+date: '2020-10-01'
+lastmod: 2021-06-10T16:25:36+03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-06-10T13:25:35.353182Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*Nature*'
+---
