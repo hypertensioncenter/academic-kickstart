@@ -1,6 +1,6 @@
 ---
 authors:
-- anni
+- ""
 categories: []
 date: "2021-03-25"
 draft: false
