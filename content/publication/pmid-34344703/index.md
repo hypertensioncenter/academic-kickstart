@@ -1,0 +1,527 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: mutation carriers
+subtitle: ''
+summary: ''
+authors:
+- A. Palomäki
+- A. Palotie
+- J. Koskela
+- K. K. Eklund
+- M. Pirinen
+- S. Ripatti
+- T. Laitinen
+- N. Mars
+- K. Eklund
+- A. Palomäki
+- P. Isomaki
+- L. Pirilä
+- O. Kaipiainen-Seppänen
+- J. Huhtakangas
+- A. Abbasi
+- J. Waring
+- F. Rahimov
+- A. Lertratanakul
+- N. Smaoui
+- A. Lehtonen
+- A. Platt
+- D. Close
+- M. Hochfeld
+- N. Bowers
+- S. Pendergrass
+- O. Soylemez
+- K. Kalpala
+- N. Bing
+- X. Hu
+- K. Auro
+- D. Waterworth
+- A. Ganna
+- A. Kerola
+- H. K. Heikkilä
+- J. G. Tabuenca
+- J. Hiltunen
+- J. Paltta
+- J. Sinisalo
+- J. Koskela
+- N. Mars
+- T. Laitinen
+- T. Sokka-Isler
+- V. Llorens
+- A. Palotie
+- M. Daly
+- B. Riley-Gills
+- H. Jacob
+- D. Paul
+- H. Runz
+- S. John
+- R. Plenge
+- M. McCarthy
+- J. Hunkapiller
+- M. Ehm
+- K. Auro
+- C. Fox
+- A. Mälarstig
+- K. Klinger
+- D. Raipal
+- T. Behrens
+- R. Yang
+- R. Siegel
+- T. Mäkelä
+- J. Kaprio
+- P. Virolainen
+- A. Hakanen
+- T. Kilpi
+- M. Perola
+- J. Partanen
+- A. Pitkäranta
+- J. Junttila
+- R. Serpi
+- T. Laitinen
+- J. Mäkelä
+- V. M. Kosma
+- U. Kujala
+- O. Tuovila
+- R. Pakkanen
+- J. Waring
+- A. Abbasi
+- M. Liu
+- I. Tachmazidou
+- C. Y. Chen
+- H. Runz
+- S. Biswas
+- J. Hunkapiller
+- M. Ehm
+- N. Raghavan
+- A. Huertas-Vazquez
+- A. Mälarstig
+- X. Hu
+- K. Klinger
+- M. Gossel
+- R. Graham
+- T. Behrens
+- B. Cummings
+- W. Fleuren
+- D. Waterworth
+- N. Renaud
+- S. Ripatti
+- J. Schleutker
+- M. Perola
+- M. Arvas
+- O. Carpén
+- R. Hinttala
+- J. Kettunen
+- J. Mäkelä
+- A. Mannermaa
+- J. Laukkanen
+- U. Kujala
+- R. Kälviäinen
+- V. Julkunen
+- H. Soininen
+- A. Remes
+- M. Hiltunen
+- J. Peltola
+- P. Tienari
+- J. Rinne
+- R. Kallionpää
+- A. Abbasi
+- A. Ziemann
+- J. Waring
+- S. Esmaeeli
+- N. Smaoui
+- A. Lehtonen
+- S. Eaton
+- H. Runz
+- S. Lahdenperä
+- J. V. Adelsberg
+- S. Biswas
+- J. Hunkapiller
+- N. Bowers
+- E. Teng
+- S. Pendergrass
+- O. Soylemez
+- K. Linden
+- F. Xu
+- D. Pulford
+- K. Auro
+- L. Addis
+- J. Eicher
+- M. Raivio
+- S. Pendergrass
+- B. Cummings
+- J. Partanen
+- M. Färkkilä
+- J. Koskela
+- S. Pikkarainen
+- A. Jussila
+- K. Kaukinen
+- T. Blomster
+- M. Kiviniemi
+- M. Voutilainen
+- A. Abbasi
+- G. Heap
+- J. Waring
+- N. Smaoui
+- F. Rahimov
+- A. Lehtonen
+- K. Usiskin
+- T. Lu
+- N. Bowers
+- D. Oh
+- S. Pendergrass
+- K. Kalpala
+- M. Miller
+- X. Hu
+- L. McCarthy
+- O. Soylemez
+- M. Daly
+- T. Laitinen
+- M. Pelkonen
+- P. Kauppi
+- H. Kankaanranta
+- T. Harju
+- R. Lahesmaa
+- N. Smaoui
+- A. Mackay
+- G. Lassi
+- S. Eaton
+- S. Greenberg
+- H. Chen
+- S. Pendergrass
+- N. Bowers
+- J. Betts
+- S. Ghosh
+- K. Auro
+- R. Mishra
+- S. Rüeger
+- T. Niiranen
+- F. Vaura
+- V. Salomaa
+- M. Juonala
+- K. Metsärinne
+- M. Kähönen
+- J. Junttila
+- M. Laakso
+- J. Pihlajamäki
+- D. Gordin
+- J. Sinisalo
+- M. R. Taskinen
+- T. Tuomi
+- J. Laukkanen
+- B. Challis
+- D. Paul
+- J. Hunkapiller
+- N. Bowers
+- S. Pendergrass
+- O. Soylemez
+- J. Parkkinen
+- M. Miller
+- R. Miller
+- A. Chu
+- K. Auro
+- K. Usiskin
+- A. Elliott
+- J. Rämö
+- S. Ripatti
+- M. P. Reeve
+- S. Ruotsalainen
+- T. Meretoja
+- H. Joensuu
+- O. Carpén
+- L. Aaltonen
+- J. Mattson
+- A. Auranen
+- P. Karihtala
+- S. Kauppila
+- P. Auvinen
+- K. Elenius
+- J. Schleutker
+- R. Popovic
+- J. Waring
+- B. Riley-Gillis
+- A. Lehtonen
+- J. Schutzman
+- J. Hunkapiller
+- N. Bowers
+- S. Pendergrass
+- A. Loboda
+- A. Chhibber
+- H. Lehtonen
+- S. McDonough
+- M. Crohns
+- S. Vuoti
+- D. Kulkarni
+- K. Auro
+- E. Pitkänen
+- N. Mars
+- M. Daly
+- K. Kaarniranta
+- J. A. Turunen
+- T. Ollila
+- S. Seitsonen
+- H. Uusitalo
+- V. Aaltonen
+- H. Uusitalo-Järvinen
+- M. Luodonpää
+- N. Hautala
+- M. Liu
+- H. Runz
+- S. Loomis
+- E. Strauss
+- N. Bowers
+- H. Chen
+- S. Pendergrass
+- A. Podgornaia
+- J. Karjalainen
+- E. Pitkänen
+- K. Tasanen
+- L. Huilaja
+- K. Hannula-Jouppi
+- T. Salmi
+- S. Peltonen
+- L. Koulu
+- K. Kalpala
+- Y. Wu
+- D. Choy
+- S. Pendergrass
+- N. Smaoui
+- F. Rahimov
+- A. Lehtonen
+- D. Waterworth
+- P. Pussinen
+- A. Salminen
+- T. Salo
+- D. Rice
+- P. Nieminen
+- U. Palotie
+- J. Sinisalo
+- M. Siponen
+- L. Suominen
+- P. Mäntylä
+- U. Gursoy
+- V. Anttonen
+- K. Sipilä
+- S. Pendergrass
+- H. Laivuori
+- V. Kurra
+- O. Heikinheimo
+- I. Kalliala
+- L. Kotaniemi-Talonen
+- K. Nieminen
+- P. Polo
+- K. Mäkikallio
+- E. Ekholm
+- M. Vääräsmäki
+- O. Uimari
+- L. Morin-Papunen
+- M. Tuppurainen
+- K. Kivinen
+- E. Widen
+- T. Tukiainen
+- M. P. Reeve
+- M. Daly
+- L. Aoxing
+- E. Laakkonen
+- N. Välimäki
+- L. Aaltonen
+- J. Kettunen
+- M. Arvas
+- J. Waring
+- B. Riley-Gillis
+- M. Liu
+- J. Kumar
+- K. Auro
+- A. Ganna
+- S. Pendergrass
+- J. W. Davis
+- B. Riley-Gillis
+- D. Quarless
+- F. Rahimov
+- S. Esmaeeli
+- S. Petrovski
+- E. Wigmore
+- A. Mitchell
+- B. Sun
+- E. Tsai
+- D. Baird
+- P. Bronson
+- R. Tian
+- S. Loomis
+- Y. Huang
+- J. Maranville
+- S. Biswas
+- E. Mohammed
+- S. Wadhawan
+- E. Kvikstad
+- M. Caliskan
+- D. Chang
+- J. Hunkapiller
+- T. Bhangale
+- N. Bowers
+- S. Pendergrass
+- K. Shkura
+- V. Neduva
+- X. Chen
+- Å. Hedman
+- K. S. King
+- P. Gormley
+- J. Liu
+- C. Wang
+- E. Xu
+- F. Auge
+- C. Chatelain
+- D. Rajpal
+- D. Liu
+- K. Call
+- T. H. Xia
+- B. Cummings
+- M. Brauer
+- H. Xu
+- A. Cole
+- J. Chung
+- J. Jacob
+- K. Lange
+- J. Zierer
+- M. Kurki
+- S. Ripatti
+- M. Daly
+- J. Karjalainen
+- A. Havulinna
+- J. Mehtonen
+- P. Palta
+- S. Hassan
+- P. D. B. Parolo
+- W. Zhou
+- M. Maasha
+- S. Hassan
+- S. Lemmelä
+- M. Rivas
+- A. Palotie
+- A. Lehisto
+- A. Ganna
+- V. Llorens
+- H. Laivuori
+- M. E. Niemi
+- T. Tukiainen
+- M. P. Reeve
+- H. Heyne
+- N. Mars
+- K. Palin
+- J. Garcia-Tabuenca
+- H. Siirtola
+- T. Kiiskinen
+- J. Lee
+- K. Tsuo
+- A. Elliott
+- K. Kristiansson
+- M. Arvas
+- K. Hyvärinen
+- J. Ritari
+- M. Koskinen
+- O. Carpén
+- J. Kettunen
+- K. Pylkäs
+- M. Kalaoja
+- M. Karjalainen
+- T. Mantere
+- E. Kangasniemi
+- S. Heikkinen
+- A. Mannermaa
+- E. Laakkonen
+- S. Heron
+- D. Jambulingam
+- V. S. Rathinakannan
+- N. Pitkänen
+- L. Kallio
+- S. Soini
+- J. Partanen
+- E. Punkka
+- R. Serpi
+- J. Mäkelä
+- V. M. Kosma
+- T. Kuopio
+- A. Jalanko
+- H. Y. Shen
+- R. Kajanne
+- M. Aavikko
+- M. Kurki
+- J. Karjalainen
+- P. D. B. Parolo
+- A. Lehisto
+- J. Mehtonen
+- W. Zhou
+- M. Kanai
+- M. Maasha
+- H. Laivuori
+- A. Havulinna
+- S. Lemmelä
+- T. Kiiskinen
+- L. Elisa Lahtela
+- M. Peura
+- M. Kaunisto
+- E. Kilpeläinen
+- T. P. Sipilä
+- G. Brein
+- O. A. Dada
+- A. Ghazal
+- A. Shcherban
+- K. Donner
+- T. P. Sipilä
+- A. Loukola
+- P. Laiho
+- T. Sistonen
+- E. Kaiharju
+- M. Laukkanen
+- E. Järvensivu
+- S. Lähteenmäki
+- L. Männikkö
+- R. Wong
+- H. Mattsson
+- K. Kristiansson
+- S. Lemmelä
+- S. Koskelainen
+- T. Hiekkalinna
+- T. Paajanen
+- P. Palta
+- K. Pärn
+- S. Luo
+- V. Sinha
+- T. Laitinen
+- H. Siirtola
+- J. Gracia-Tabuenca
+- M. Helminen
+- T. Luukkaala
+- I. Vähätalo
+- T. Jyrhämä
+- M. Hautalahti
+- L. Mustaniemi
+- M. Koivusalo
+- S. Smith
+- T. Southerington
+tags: []
+categories: []
+date: '2021-08-01'
+lastmod: 2021-10-21T15:51:49+03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-10-21T12:51:48.854431Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*Ann Rheum Dis*'
+---
