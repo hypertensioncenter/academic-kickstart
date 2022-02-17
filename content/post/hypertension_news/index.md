@@ -23,6 +23,3 @@ Professor Teemu Niiranen emphesized importance of appropriate medication and hea
 
 [https://www.mtv.fi/sarja/uutisaamu-33001003008/hoituuko-korkea-verenpaine-elamantapamuutoksella-vai-tarvitaanko-laakitysta-1554772](https://www.mtv.fi/sarja/uutisaamu-33001003008/hoituuko-korkea-verenpaine-elamantapamuutoksella-vai-tarvitaanko-laakitysta-1554772)
 
-
-{{< video "https://www.mtv.fi/sarja/uutisaamu-33001003008/hoituuko-korkea-verenpaine-elamantapamuutoksella-vai-tarvitaanko-laakitysta-1554772" "interview" >}}
-
