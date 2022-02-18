@@ -15,7 +15,7 @@ projects: []
 subtitle: ""
 summary: " "
 tags: []
-title: "Hypertension in news" 
+title: "Hypertension in News" 
 ---
 
 Professor Teemu Niiranen emphesized importance of appropriate medication and healthy life style in morning news.
