@@ -19,7 +19,7 @@ authors:
 #    year: 2005
 #email: "tejuni@utu.fi"
 interests:
-- Age of hypertension onset
+- Internal Medicine Resident
 #- Hypertension
 #- Multi-omics
 name: Karri Suvila
@@ -42,5 +42,5 @@ social:
 #  link: https://github.com/gcushen
 superuser: false
 user_groups:
-- PhD Students
+- Alumni
 ---
