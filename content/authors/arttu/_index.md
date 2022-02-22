@@ -19,14 +19,14 @@ authors:
 #    year: 2005
 #email: "tejuni@utu.fi"
 interests:
-- Geriatrician
+#- Geriatrician
 #- Hypertension
 #- Multi-omics
 name: Arttu Lehtonen
 #organizations:
 #- name: ""
 #  url: ""
-#role: Post-Doctoral Researcher
+role: Geriatrician
 social:
 #- icon: envelope
 #  icon_pack: fas
