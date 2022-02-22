@@ -19,14 +19,14 @@ authors:
 #    year: 2005
 #email: "tejuni@utu.fi"
 interests:
-- Internal Medicine Resident
+#- Internal Medicine Resident
 #- Hypertension
 #- Multi-omics
 name: Karri Suvila
 #organizations:
 #- name: ""
 #  url: ""
-#role: Post-Doctoral Researcher
+role: Internal Medicine Resident
 social:
 #- icon: envelope
 #  icon_pack: fas
