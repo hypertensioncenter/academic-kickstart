@@ -19,7 +19,7 @@ authors:
 #    year: 2005
 #email: "tejuni@utu.fi"
 interests:
-- Electrocardiography
+- Geriatrician
 #- Hypertension
 #- Multi-omics
 name: Arttu Lehtonen
@@ -42,5 +42,5 @@ social:
 #  link: https://github.com/gcushen
 superuser: false
 user_groups:
-- PhD Students
+- Alumni
 ---
