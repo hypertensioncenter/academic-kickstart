@@ -1,0 +1,396 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: Integration of questionnaire-based risk factors improves polygenic risk scores
+  for human coronary heart disease and type 2 diabetes
+subtitle: ''
+summary: ''
+authors:
+- M. Tamlander
+- N. Mars
+- M. Pirinen
+- E. Widén
+- S. Ripatti
+- A. Palotie
+- M. Daly
+- B. Riley-Gills
+- H. Jacob
+- D. Paul
+- H. Runz
+- S. John
+- R. Plenge
+- J. Maranville
+- G. Okafo
+- N. Lawless
+- H. Salminen-Mankonen
+- M. McCarthy
+- J. Hunkapiller
+- M. Ehm
+- K. Auro
+- S. Longerich
+- C. Fox
+- A. Mälarstig
+- K. Klinger
+- D. Raipal
+- E. Green
+- R. Graham
+- R. Yang
+- C. O'Donnell
+- T. Mäkelä
+- J. Kaprio
+- P. Virolainen
+- A. Hakanen
+- T. Kilpi
+- M. Perola
+- J. Partanen
+- A. Pitkäranta
+- J. Junttila
+- R. Serpi
+- T. Laitinen
+- V. M. Kosma
+- A. Mannermaa
+- J. Laukkanen
+- M. Hautalahti
+- O. Tuovila
+- R. Pakkanen
+- J. Waring
+- I. Tachmazidou
+- C. Y. Chen
+- S. Biswas
+- Z. Ding
+- M. Jung
+- R. Pendergrass
+- D. Pulford
+- N. Raghavan
+- A. Huertas-Vazquez
+- J. H. Sul
+- X. Hu
+- S. Mozaffari
+- D. Waterworth
+- N. Renaud
+- M. E. Obeidat
+- S. Ripatti
+- J. Schleutker
+- M. Arvas
+- O. Carpén
+- R. Hinttala
+- J. Kettunen
+- K. Aalto-Setälä
+- M. Kähönen
+- J. Mäkelä
+- R. Kälviäinen
+- V. Julkunen
+- H. Soininen
+- A. Remes
+- M. Hiltunen
+- J. Peltola
+- P. Tienari
+- J. Rinne
+- R. Kallionpää
+- A. Abbasi
+- A. Ziemann
+- S. Esmaeeli
+- N. Smaoui
+- A. Lehtonen
+- S. Eaton
+- S. Lahdenperä
+- J. van Adelsberg
+- N. Bowers
+- E. Teng
+- S. Pendergrass
+- O. Soylemez
+- K. Linden
+- F. Xu
+- L. Addis
+- J. Eicher
+- M. Raivio
+- B. Cummings
+- J. Partanen
+- M. Färkkilä
+- J. Koskela
+- S. Pikkarainen
+- A. Jussila
+- K. Kaukinen
+- T. Blomster
+- M. Kiviniemi
+- M. Voutilainen
+- G. Heap
+- F. Rahimov
+- K. Usiskin
+- T. Lu
+- D. Oh
+- K. Kalpala
+- M. Miller
+- L. McCarthy
+- K. Eklund
+- A. Palomäki
+- P. Isomäki
+- L. Pirilä
+- O. Kaipiainen-Seppänen
+- J. Huhtakangas
+- A. Lertratanakul
+- D. Close
+- M. Hochfeld
+- N. Bing
+- J. E. Gordillo
+- T. Laitinen
+- M. Pelkonen
+- P. Kauppi
+- H. Kankaanranta
+- T. Harju
+- R. Lahesmaa
+- A. Mackay
+- G. Lassi
+- S. Greenberg
+- H. Chen
+- J. Betts
+- S. Ghosh
+- R. Mishra
+- S. Rüeger
+- T. Niiranen
+- F. Vaura
+- V. Salomaa
+- M. Juonala
+- K. Metsärinne
+- M. Kähönen
+- J. Junttila
+- M. Laakso
+- J. Pihlajamäki
+- D. Gordin
+- J. Sinisalo
+- M. R. Taskinen
+- T. Tuomi
+- J. Laukkanen
+- B. Challis
+- J. Parkkinen
+- R. Miller
+- A. Chu
+- A. Elliott
+- J. Rämö
+- M. P. Reeve
+- S. Ruotsalainen
+- T. Meretoja
+- H. Joensuu
+- O. Carpén
+- L. Aaltonen
+- J. Mattson
+- A. Auranen
+- P. Karihtala
+- S. Kauppila
+- P. Auvinen
+- K. Elenius
+- J. Schleutker
+- R. Popovic
+- B. Riley-Gillis
+- J. Schutzman
+- A. Loboda
+- A. Chhibber
+- H. Lehtonen
+- S. McDonough
+- M. Crohns
+- S. Vuoti
+- D. Kulkarni
+- E. Pitkänen
+- K. Kaarniranta
+- J. A. Turunen
+- T. Ollila
+- S. Seitsonen
+- H. Uusitalo
+- V. Aaltonen
+- H. Uusitalo-Järvinen
+- M. Luodonpää
+- N. Hautala
+- M. Liu
+- S. Loomis
+- E. Strauss
+- H. Chen
+- A. Podgornaia
+- J. Karjalainen
+- K. Tasanen
+- L. Huilaja
+- K. Hannula-Jouppi
+- T. Salmi
+- S. Peltonen
+- L. Koulu
+- Y. Wu
+- D. Choy
+- P. Pussinen
+- A. Salminen
+- T. Salo
+- D. Rice
+- P. Nieminen
+- U. Palotie
+- M. Siponen
+- L. Suominen
+- P. Mäntylä
+- U. Gursoy
+- V. Anttonen
+- K. Sipilä
+- H. Laivuori
+- V. Kurra
+- O. Heikinheimo
+- I. Kalliala
+- L. Kotaniemi-Talonen
+- K. Nieminen
+- P. Polo
+- K. Mäkikallio
+- E. Ekholm
+- M. Vääräsmäki
+- O. Uimari
+- L. Morin-Papunen
+- M. Tuppurainen
+- K. Kivinen
+- E. Widén
+- T. Tukiainen
+- L. Aoxing
+- E. Laakkonen
+- N. Välimäki
+- J. Kettunen
+- M. Arvas
+- J. Kumar
+- A. Ganna
+- J. W. Davis
+- D. Quarless
+- S. Petrovski
+- E. Wigmore
+- A. Mitchell
+- B. Sun
+- E. Tsai
+- D. Baird
+- P. Bronson
+- R. Tian
+- Y. Huang
+- E. Mohammed
+- S. Wadhawan
+- E. Kvikstad
+- M. Caliskan
+- D. Chang
+- T. Bhangale
+- K. Shkura
+- V. Neduva
+- X. Chen
+- Å. Hedman
+- K. S. King
+- P. Gormley
+- J. Liu
+- C. Wang
+- E. Xu
+- F. Auge
+- C. Chatelain
+- D. Rajpal
+- D. Liu
+- K. Call
+- T. H. Xia
+- M. Brauer
+- H. Xu
+- A. Cole
+- J. Chung
+- J. Jacob
+- K. de Lange
+- J. Zierer
+- M. Kurki
+- A. Havulinna
+- J. Mehtonen
+- P. Palta
+- S. Hassan
+- P. Della Briotta Parolo
+- W. Zhou
+- M. Maasha
+- S. Lemmelä
+- M. Rivas
+- A. Lehisto
+- V. Llorens
+- M. E. Niemi
+- H. Heyne
+- K. Palin
+- J. Garcia-Tabuenca
+- H. Siirtola
+- T. Kiiskinen
+- J. Lee
+- K. Tsuo
+- K. Kristiansson
+- K. Hyvärinen
+- J. Ritari
+- M. Koskinen
+- K. Pylkäs
+- M. Kalaoja
+- M. Karjalainen
+- T. Mantere
+- E. Kangasniemi
+- S. Heikkinen
+- S. Heron
+- D. Jambulingam
+- V. S. Rathinakannan
+- N. Pitkänen
+- P. Terho
+- S. Soini
+- E. Punkka
+- S. Siltanen
+- T. Kuopio
+- A. Jalanko
+- H. Y. Shen
+- R. Kajanne
+- M. Aavikko
+- M. Kanai
+- L. E. Lahtela
+- M. Kaunisto
+- E. Kilpeläinen
+- T. P. Sipilä
+- O. A. Dada
+- A. Ghazal
+- A. Kytölä
+- K. Donner
+- T. P. Sipilä
+- A. Loukola
+- P. Laiho
+- T. Sistonen
+- E. Kaiharju
+- M. Laukkanen
+- E. Järvensivu
+- S. Lähteenmäki
+- L. Männikkö
+- R. Wong
+- M. Brunfeldt
+- S. Koskelainen
+- T. Hiekkalinna
+- T. Paajanen
+- K. Pärn
+- S. Luo
+- V. Sinha
+- M. P. Reeve
+- H. Siirtola
+- J. Gracia-Tabuenca
+- M. Helminen
+- T. Luukkaala
+- I. Vähätalo
+- J. Pitkänen
+- M. Koivusalo
+- S. Smith
+- T. Southerington
+tags: []
+categories: []
+date: '2022-02-01'
+lastmod: 2022-06-21T16:02:03+03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-06-21T13:02:03.219075Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*Commun Biol*'
+---
