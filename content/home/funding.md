@@ -25,4 +25,5 @@ subtitle = ""
 
 |   |   |   |
 |---|---|---|
- |![Mary and Georg C. Ehrnrooth Foundation](/img/ehrnrooth2.jpg)|![The Finnish Medical Foundation](/img/laaketieteensaatio.png)       |  ![Emil Aaltonen Foundation](/img/eas.png)  |
+ |![Mary and Georg C. Ehrnrooth Foundation](/img/ehrnrooth2.jpg) |![The Finnish Medical Foundation](/img/laaketieteensaatio.png) |![Emil Aaltonen Foundation](/img/eas.png) |
+ 
