@@ -23,7 +23,7 @@ subtitle = ""
 
 
 
-|   |   |   |
-|---|---|---|
- |![Mary and Georg C. Ehrnrooth Foundation](/img/ehrnrooth2.jpg) |![The Finnish Medical Foundation](/img/laaketieteensaatio.png) |![Paavo Nurmi Foundation](/img/paavonurmi.png) |
+|   |   |   |   |
+|---|---|---|---|
+ |![Mary and Georg C. Ehrnrooth Foundation](/img/ehrnrooth2.jpg) |![The Finnish Medical Foundation](/img/laaketieteensaatio.png) |![Paavo Nurmi Foundation](/img/paavonurmi.png) |   |
  
