@@ -19,11 +19,11 @@ subtitle = ""
 
 |   |   |   |
 |---|---|---|
-|![Horizon 2020](/img/horizon2020_2.jpg)       |  ![Sigrid Jusélius Foundation](/img/juselius-logo2.jpg) | ![Paavo Nurmi Foundation](/img/paavonurmi.png) |
+|![Horizon 2020](/img/horizon2020_2.jpg)       |  ![Sigrid Jusélius Foundation](/img/juselius-logo2.jpg) | ![Emil Aaltonen Foundation](/img/eas.png) |
 
 
 
 |   |   |   |
 |---|---|---|
- |![Mary and Georg C. Ehrnrooth Foundation](/img/ehrnrooth2.jpg) |![The Finnish Medical Foundation](/img/laaketieteensaatio.png) |![Emil Aaltonen Foundation](/img/eas.png) |
+ |![Mary and Georg C. Ehrnrooth Foundation](/img/ehrnrooth2.jpg) |![The Finnish Medical Foundation](/img/laaketieteensaatio.png) |![Paavo Nurmi Foundation](/img/paavonurmi.png) |
  
