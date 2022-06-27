@@ -13,17 +13,16 @@ subtitle = ""
 
 |   |   |   |
 |---|---|---|
-|  ![Academy of Finland](/img/akatemia.jpg)  | ![Hospital District of Southwest Finland](/img/VSSHP.png)   |![Finnish Foundation for Cardiovascular Research](/img/sydansaatio.png)|
+| ![Academy of Finland](/img/akatemia.jpg)  | ![Horizon 2020](/img/horizon2020_2.jpg) | ![Hospital District of Southwest Finland](/img/VSSHP.png)   |
 
 
 
 |   |   |   |
 |---|---|---|
-|![Horizon 2020](/img/horizon2020_2.jpg)       |  ![Sigrid Jusélius Foundation](/img/juselius-logo2.jpg) | ![Paavo Nurmi Foundation](/img/paavonurmi.png) |
-
+|![Sigrid Jusélius Foundation](/img/juselius-logo2.jpg) | ![Mary and Georg C. Ehrnrooth Foundation](/img/ehrnrooth2.jpg) | ![Emil Aaltonen Foundation](/img/eas.png) |
 
 
 |   |   |   |
 |---|---|---|
-|![Mary and Georg C. Ehrnrooth Foundation](/img/ehrnrooth2.jpg) |![The Finnish Medical Foundation](/img/laaketieteensaatio2b.png) |![Emil Aaltonen Foundation](/img/eas.png) |
+|![The Finnish Medical Foundation](/img/laaketieteensaatio2b.png) | ![Finnish Foundation for Cardiovascular Research](/img/sydansaatio.png)| ![Paavo Nurmi Foundation](/img/paavonurmi.png) |
  
