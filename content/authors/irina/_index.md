@@ -1,6 +1,6 @@
 ---
 authors:
-- felix
+- irina
 #bio: My research interests include distributed robotics, mobile computing and programmable
 #  matter.
 #education:
@@ -18,14 +18,13 @@ authors:
 #    institution: University of Turku
 #    year: 2005
 #email: "tejuni@utu.fi"
-#interests:
-#- Genetic and phenotypic clustering of hypertension
-#- Multi-omics
-name: Felix Vaura
+interests:
+- Microbiome and Infections
+name: Irina Wikki
 #organizations:
 #- name: ""
 #  url: ""
-role: Post-Doctoral Researcher
+#role: Post-Doctoral Researcher
 social:
 #- icon: envelope
 #  icon_pack: fas
@@ -41,5 +40,5 @@ social:
 #  link: https://github.com/gcushen
 superuser: false
 user_groups:
-- Alumni
+- PhD Students
 ---
