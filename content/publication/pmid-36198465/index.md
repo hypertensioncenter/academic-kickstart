@@ -1,0 +1,368 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: 'Recontacting biobank participants to collect lifestyle, behavioural and cognitive
+  information via online questionnaires: lessons from a pilot study within FinnGen'
+subtitle: ''
+summary: ''
+authors:
+- R. S. Rodosthenous
+- M. E. K. Niemi
+- L. Kallio
+- M. Perala
+- P. Terho
+- T. Knopp
+- E. Punkka
+- E. M. Makkonen
+- P. Nurmi
+- J. Makela
+- P. Wihuri
+- M. Hautalahti
+- C. Moffatt
+- P. Martini
+- L. Germine
+- V. A. Makela
+- O. A. Karhunen
+- J. Lahti
+- T. S. Hiekkalinna
+- T. Jyrhama
+- H. Y. Shen
+- H. Runz
+- A. Palotie
+- M. Perola
+- A. Ganna
+- A. Platt
+- A. Ziemann
+- A. Huertas-Vazquez
+- A. Salminen
+- A. Jussila
+- A. Havulinna
+- A. Porello
+- A. Abbasi
+- A. Elliott
+- A. Hart
+- A. ä
+- A. larstig
+- A. Loboda
+- A. Lehtonen
+- A. ranta
+- A. Remes
+- A. Auranen
+- A. Aarnisalo
+- A. Hakanen
+- A. kitie
+- A. ki
+- A. Jalanko
+- A. Loukola
+- A. Liu
+- A. Lertratanakul
+- A. Bizaki-Vallaskangas
+- A. Lehisto
+- A. Mannermaa
+- A. Matakidou
+- A. Chu
+- A. Toivola
+- A. Ghazal
+- B. Challis
+- B. Riley-Gills
+- C. Fox
+- C. Y. Chen
+- C. Chatelain
+- D. Gordin
+- D. Choy
+- D. Pulford
+- D. Rice
+- D. Waterworth
+- D. Ngo
+- D. Raipal
+- D. Reilly
+- D. Kulkarni
+- D. Paul
+- E. Teng
+- E. Kangasniemi
+- E. Sliz
+- E. Laakkonen
+- E. Khramtsova
+- E. rvensivu
+- E. inen
+- E. Rahikkala
+- E. Widen
+- E. Saarentaus
+- E. Green
+- E. Strauss
+- E. ä
+- E. nen
+- E. Kaiharju
+- E. Salminen
+- F. Farias
+- F. Xu
+- F. Rahimov
+- F. Vaura
+- F. berg
+- G. Okafo
+- G. Lassi
+- H. Ollila
+- H. Laivuori
+- H. Mattsson
+- H. Kankaanranta
+- H. Uusitalo
+- H. Chen
+- H. Siirtola
+- H. Silven
+- H. Joensuu
+- H. Lehtonen
+- H. Salminen-Mankonen
+- H. Palin
+- H. Heyne
+- H. Soininen
+- H. Jacob
+- H. Chen
+- I. talo
+- I. Hovatta
+- I. Kalliala
+- I. Tachmazidou
+- J. Kaprio
+- J. Parkkinen
+- J. Tyrmi
+- J. Suvisaari
+- J. H. Sul
+- J. Kumar
+- J. Laukkanen
+- J. Ritari
+- J. Miller
+- J. Garcia-Tabuenca
+- J. Waring
+- J. Aittokallio
+- J. Schutzman
+- J. Lee
+- J. Betts
+- J. ö
+- J. Huhtakangas
+- J. Mattson
+- J. Schleutker
+- J. Kettunen
+- J. Eicher
+- J. A. Turunen
+- J. E. Gordillo
+- J. Maranville
+- J. Karjalainen
+- J. Mehtonen
+- J. Rinne
+- J. Sinisalo
+- J. Koskela
+- J. Partanen
+- J. Peltola
+- J. Hunkapiller
+- J. Hernesniemi
+- J. Partanen
+- J. nen
+- K. Kaarniranta
+- K. Tasanen
+- K. rinne
+- K. rn
+- K. He
+- K. Eklund
+- K. Hannula-Jouppi
+- K. Klinger
+- K. Donner
+- K. rinen
+- K. Kristiansson
+- K. Kivinen
+- K. Kaukinen
+- K. s
+- K. ä
+- K. Palin
+- K. Auro
+- K. Kalpala
+- K. ä
+- K. Elenius
+- K. ki
+- K. Tsuo
+- L. Elisa Lahtela
+- L. Addis
+- L. Huilaja
+- L. Kotaniemi-Talonen
+- L. ä
+- L. Morin-Papunen
+- L. Aaltonen
+- L. Koulu
+- L. Suominen
+- L. McCarthy
+- L. ö
+- M. ki
+- M. Mouded
+- M. M. Linna
+- M. Rivas
+- M. Jung
+- M. G. Ehm
+- M. Pelkonen
+- M. Kaunisto
+- M. Siponen
+- M. Niemi
+- M. ki
+- M. R. Taskinen
+- M. Daly
+- M. McCarthy
+- M. Laukkanen
+- M. Voutilainen
+- M. Hochfeld
+- M. Kals
+- M. ä
+- M. P. Reeve
+- M. Kanai
+- M. Guan
+- M. Miller
+- M. Liu
+- M. Aavikko
+- M. Helminen
+- M. nen
+- M. Mendelson
+- M. Arvas
+- M. Hiltunen
+- M. Kiviniemi
+- M. Brunfeldt
+- M. Karjalainen
+- M. Raivio
+- M. Kurki
+- M. Maasha
+- N. Bing
+- N. Pujol
+- N. Bowers
+- N. Lawless
+- N. Raghavan
+- N. Renaud
+- N. ki
+- N. Mars
+- N. nen
+- N. Smaoui
+- O. nen
+- O. n
+- O. A. Dada
+- O. Heikinheimo
+- O. Tuovila
+- O. Uimari
+- P. Auvinen
+- P. Laiho
+- P. ä
+- P. Kauppi
+- P. Karihtala
+- P. Nieminen
+- P. Tienari
+- P. Virolainen
+- P. ki
+- P. D. B. Parolo
+- P. Pussinen
+- P. Palta
+- Q. S. Li
+- R. Pakkanen
+- R. Serpi
+- R. Mishra
+- R. Hinttala
+- R. inen
+- R. Wong
+- R. Popovic
+- R. Weldatsadik
+- R. Arffman
+- R. Lahesmaa
+- R. Pendergrass
+- R. Kajanne
+- R. Graham
+- R. Plenge
+- R. Yang
+- R. ä
+- S. Mozaffari
+- S. John
+- S. Heikkinen
+- S. Koskelainen
+- S. Pikkarainen
+- S. Lessard
+- S. Ripatti
+- S. Siltanen
+- S. Toppila-Salmi
+- S. ä
+- S. Ruotsalainen
+- S. Smith
+- S. Strausz
+- S. Vuoti
+- S. Hassan
+- S. Biswas
+- S. S. Padmanabhuni
+- S. Luo
+- S. Longerich
+- S. ki
+- S. Peltonen
+- S. Soini
+- S. McDonough
+- S. Loomis
+- S. Eaton
+- S. ä
+- S. Savukoski
+- T. Raivio
+- T. Laitinen
+- T. Tukiainen
+- T. Salmi
+- T. Niiranen
+- T. Paajanen
+- T. Kuopio
+- T. Kilpi
+- T. Ollila
+- T. Piltonen
+- T. Harju
+- T. D. Als
+- T. Luukkaala
+- T. Tuomi
+- T. Lu
+- T. Blomster
+- T. Hiltunen
+- T. P. ä
+- T. Southerington
+- T. P. ä
+- T. Laisk
+- T. Kiiskinen
+- T. Mantere
+- T. Meretoja
+- T. Palotie
+- T. Salo
+- T. Sistonen
+- T. Willberg
+- U. Palotie
+- U. Gursoy
+- V. Julkunen
+- V. Jokimaa
+- V. Salomaa
+- V. M. Kosma
+- V. M. Kosma
+- V. Kurra
+- V. Llorens
+- V. Anttonen
+- W. Zhou
+- X. Hu
+- Y. Wu
+- Z. Ding
+tags: []
+categories: []
+date: '2022-10-01'
+lastmod: 2023-01-19T14:19:43+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-01-19T12:19:42.557934Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*BMJ Open*'
+---
