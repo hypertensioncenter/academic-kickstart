@@ -1,0 +1,428 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: Inframe insertion and splice site variants in MFGE8 associate with protection
+  against coronary atherosclerosis
+subtitle: ''
+summary: ''
+authors:
+- S. E. Ruotsalainen
+- I. Surakka
+- N. Mars
+- J. Karjalainen
+- M. Kurki
+- M. Kanai
+- K. Krebs
+- S. Graham
+- P. P. Mishra
+- B. H. Mishra
+- J. Sinisalo
+- P. Palta
+- T. ki
+- O. Raitakari
+- L. Milani
+- Y. Okada
+- A. Palotie
+- E. Widen
+- M. J. Daly
+- S. Ripatti
+- T. Esko
+- A. Metspalu
+- R. gi
+- M. Nelis
+- K. Matsuda
+- Y. Yamanashi
+- Y. Furukawa
+- T. Morisaki
+- Y. Murakami
+- Y. Kamatani
+- K. Muto
+- A. Nagai
+- W. Obara
+- K. Yamaji
+- K. Takahashi
+- S. Asai
+- Y. Takahashi
+- T. Suzuki
+- N. Sinozaki
+- H. Yamaguchi
+- S. Minami
+- S. Murayama
+- K. Yoshimori
+- S. Nagayama
+- D. Obata
+- M. Higashiyama
+- A. Masumoto
+- Y. Koretsune
+- A. Palotie
+- M. Daly
+- B. Riley-Gills
+- H. Jacob
+- D. Paul
+- H. Runz
+- S. John
+- R. Plenge
+- M. McCarthy
+- J. Hunkapiller
+- M. Ehm
+- K. Auro
+- C. Fox
+- A. larstig
+- K. Klinger
+- D. Raipal
+- T. Behrens
+- R. Yang
+- R. Siegel
+- T. ä
+- J. Kaprio
+- P. Virolainen
+- A. Hakanen
+- T. Kilpi
+- M. Perola
+- J. Partanen
+- A. ranta
+- J. Junttila
+- R. Serpi
+- T. Laitinen
+- J. ä
+- V. M. Kosma
+- U. Kujala
+- O. Tuovila
+- R. Pakkanen
+- J. Waring
+- A. Abbasi
+- M. Liu
+- I. Tachmazidou
+- C. Y. Chen
+- S. Biswas
+- N. Raghavan
+- A. Huertas-Vazquez
+- X. Hu
+- M. Gossel
+- R. Graham
+- B. Cummings
+- W. Fleuren
+- D. Waterworth
+- N. Renaud
+- M. E. Obeidat
+- S. Ripatti
+- J. Schleutker
+- M. Arvas
+- O. n
+- R. Hinttala
+- J. Kettunen
+- A. Mannermaa
+- J. Laukkanen
+- R. inen
+- V. Julkunen
+- H. Soininen
+- A. Remes
+- M. Hiltunen
+- J. Peltola
+- P. Tienari
+- J. Rinne
+- R. ä
+- A. Ziemann
+- S. Esmaeeli
+- N. Smaoui
+- A. Lehtonen
+- S. Eaton
+- S. ä
+- J. van Adelsberg
+- N. Bowers
+- E. Teng
+- S. Pendergrass
+- O. Soylemez
+- K. Linden
+- F. Xu
+- D. Pulford
+- L. Addis
+- J. Eicher
+- M. Raivio
+- J. Partanen
+- M. ä
+- J. Koskela
+- S. Pikkarainen
+- A. Jussila
+- K. Kaukinen
+- T. Blomster
+- M. Kiviniemi
+- M. Voutilainen
+- G. Heap
+- F. Rahimov
+- K. Usiskin
+- T. Lu
+- D. Oh
+- K. Kalpala
+- M. Miller
+- L. McCarthy
+- K. Eklund
+- A. ki
+- P. ki
+- L. ä
+- O. nen
+- J. Huhtakangas
+- A. Lertratanakul
+- D. Close
+- M. Hochfeld
+- N. Bing
+- J. E. Gordillo
+- T. Laitinen
+- M. Pelkonen
+- P. Kauppi
+- H. Kankaanranta
+- T. Harju
+- R. Lahesmaa
+- A. Mackay
+- G. Lassi
+- S. Greenberg
+- H. Chen
+- J. Betts
+- S. Ghosh
+- R. Mishra
+- S. eger
+- T. Niiranen
+- F. Vaura
+- V. Salomaa
+- M. Juonala
+- K. rinne
+- M. nen
+- J. Junttila
+- M. Laakso
+- J. ki
+- D. Gordin
+- J. Sinisalo
+- M. R. Taskinen
+- T. Tuomi
+- J. Laukkanen
+- B. Challis
+- J. Parkkinen
+- R. Miller
+- A. Chu
+- A. Elliott
+- J. ö
+- M. P. Reeve
+- S. Ruotsalainen
+- T. Meretoja
+- H. Joensuu
+- O. n
+- L. Aaltonen
+- J. Mattson
+- A. Auranen
+- P. Karihtala
+- S. Kauppila
+- P. Auvinen
+- K. Elenius
+- J. Schleutker
+- R. Popovic
+- B. Riley-Gillis
+- J. Schutzman
+- A. Loboda
+- A. Chhibber
+- H. Lehtonen
+- S. McDonough
+- M. Crohns
+- S. Vuoti
+- D. Kulkarni
+- E. nen
+- K. Kaarniranta
+- J. A. Turunen
+- T. Ollila
+- S. Seitsonen
+- H. Uusitalo
+- V. Aaltonen
+- H. rvinen
+- M. ä
+- N. Hautala
+- S. Loomis
+- E. Strauss
+- H. Chen
+- A. Podgornaia
+- J. Karjalainen
+- K. Tasanen
+- L. Huilaja
+- K. Hannula-Jouppi
+- T. Salmi
+- S. Peltonen
+- L. Koulu
+- Y. Wu
+- D. Choy
+- P. Pussinen
+- A. Salminen
+- T. Salo
+- D. Rice
+- P. Nieminen
+- U. Palotie
+- M. Siponen
+- L. Suominen
+- P. ä
+- U. Gursoy
+- V. Anttonen
+- K. ä
+- H. Laivuori
+- V. Kurra
+- O. Heikinheimo
+- I. Kalliala
+- L. Kotaniemi-Talonen
+- K. Nieminen
+- P. Polo
+- K. kikallio
+- E. Ekholm
+- M. ki
+- O. Uimari
+- L. Morin-Papunen
+- M. Tuppurainen
+- K. Kivinen
+- T. Tukiainen
+- L. Aoxing
+- E. Laakkonen
+- N. ki
+- J. Kettunen
+- M. Arvas
+- J. Kumar
+- A. Ganna
+- J. W. Davis
+- D. Quarless
+- S. Petrovski
+- E. Wigmore
+- A. Mitchell
+- B. Sun
+- E. Tsai
+- D. Baird
+- P. Bronson
+- R. Tian
+- Y. Huang
+- J. Maranville
+- E. Mohammed
+- S. Wadhawan
+- E. Kvikstad
+- M. Caliskan
+- D. Chang
+- T. Bhangale
+- K. Shkura
+- V. Neduva
+- X. Chen
+- Å. Hedman
+- K. S. King
+- P. Gormley
+- J. Liu
+- C. Wang
+- E. Xu
+- F. Auge
+- C. Chatelain
+- D. Rajpal
+- D. Liu
+- K. Call
+- T. H. Xia
+- M. Brauer
+- H. Xu
+- A. Cole
+- J. Chung
+- J. Jacob
+- K. de Lange
+- J. Zierer
+- M. Kurki
+- A. Havulinna
+- J. Mehtonen
+- P. Palta
+- S. Hassan
+- P. Della Briotta Parolo
+- W. Zhou
+- M. Maasha
+- S. ä
+- M. Rivas
+- A. Lehisto
+- V. Llorens
+- M. E. Niemi
+- H. Heyne
+- K. Palin
+- J. Garcia-Tabuenca
+- H. Siirtola
+- T. Kiiskinen
+- J. Lee
+- K. Tsuo
+- K. Kristiansson
+- K. rinen
+- J. Ritari
+- M. Koskinen
+- K. s
+- M. Kalaoja
+- M. Karjalainen
+- T. Mantere
+- E. Kangasniemi
+- S. Heikkinen
+- S. Heron
+- D. Jambulingam
+- V. S. Rathinakannan
+- N. nen
+- L. Kallio
+- S. Soini
+- E. Punkka
+- T. Kuopio
+- A. Jalanko
+- H. Y. Shen
+- R. Kajanne
+- M. Aavikko
+- M. Kanai
+- L. E. Lahtela
+- M. Kaunisto
+- E. inen
+- T. P. ä
+- G. Brein
+- O. A. Dada
+- A. Ghazal
+- A. Shcherban
+- K. Donner
+- A. Loukola
+- P. Laiho
+- T. Sistonen
+- E. Kaiharju
+- M. Laukkanen
+- E. rvensivu
+- S. ki
+- L. ö
+- R. Wong
+- H. Mattsson
+- S. Koskelainen
+- T. Hiekkalinna
+- T. Paajanen
+- K. rn
+- S. Luo
+- V. Sinha
+- J. Gracia-Tabuenca
+- M. Helminen
+- T. Luukkaala
+- I. talo
+- T. ä
+- M. Hautalahti
+- L. Mustaniemi
+- M. Koivusalo
+- S. Smith
+- T. Southerington
+tags: []
+categories: []
+date: '2022-08-01'
+lastmod: 2023-01-19T14:19:46+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-01-19T12:19:45.966862Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*Commun Biol*'
+---
