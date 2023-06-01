@@ -15,7 +15,7 @@ projects: []
 subtitle: ""
 summary: " "
 tags: []
-title: "Joonatan Palmu defended doctoral thesis" 
+title: "Joonatan Palmu defended his doctoral thesis" 
 ---
 
 Joonatan Palmu defended his doctoral thesis *"Metabolomics and metagenomics in hypertension"*. He demonstrated that gut microbiota is associated with human hypertension, created metabolic profile for hypertension and found a strong connection between eicosanoids and blood pressure. 

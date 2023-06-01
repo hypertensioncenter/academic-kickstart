@@ -15,7 +15,7 @@ projects: []
 subtitle: ""
 summary: " "
 tags: []
-title: "Matti Vuori defended doctoral thesis" 
+title: "Matti Vuori defended his doctoral thesis" 
 ---
 
 Matti Vuori defended his doctoral thesis *"Heart Failure: Risk Factors and the Validity of Diagnoses"*.
