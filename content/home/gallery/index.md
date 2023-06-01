@@ -10,3 +10,11 @@ subtitle = ""
 
 {{< gallery >}}
 
+
+##Tätä voisi ehkä yrittää, että saisi sen fancyboxin suostumaan matalaan kuvaan.
+
+ # Custom CSS. 
+# css_style = ""
+ 
+ # CSS class.
+# css_class = ""

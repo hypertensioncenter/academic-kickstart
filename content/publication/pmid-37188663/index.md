@@ -1,0 +1,446 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: Narcolepsy risk loci outline role of T cell autoimmunity and infectious triggers
+  in narcolepsy
+subtitle: ''
+summary: ''
+authors:
+- H. M. Ollila
+- E. Sharon
+- L. Lin
+- N. Sinnott-Armstrong
+- A. Ambati
+- S. M. Yogeshwar
+- R. P. Hillary
+- O. Jolanki
+- J. Faraco
+- M. Einen
+- G. Luo
+- J. Zhang
+- F. Han
+- H. Yan
+- X. S. Dong
+- J. Li
+- J. Zhang
+- S. C. Hong
+- T. W. Kim
+- Y. Dauvilliers
+- L. Barateau
+- G. J. Lammers
+- R. Fronczek
+- G. Mayer
+- J. Santamaria
+- I. Arnulf
+- S. Knudsen-Heier
+- M. K. L. Bredahl
+- P. M. Thorsby
+- G. Plazzi
+- F. Pizza
+- M. Moresco
+- C. Crowe
+- S. K. Van den Eeden
+- M. Lecendreux
+- P. Bourgin
+- T. Kanbayashi
+- F. J. nez-Orozco
+- R. Peraita-Adrados
+- A. ó
+- J. Montplaisir
+- A. Desautels
+- Y. S. Huang
+- P. Jennum
+- S. Nevsimalova
+- D. Kemlink
+- A. Iranzo
+- S. Overeem
+- A. Wierzbicka
+- P. Geisler
+- K. Sonka
+- M. Honda
+- B. gl
+- A. Stefani
+- F. M. Coelho
+- V. Mantovani
+- E. Feketeova
+- M. Wadelius
+- N. Eriksson
+- H. Smedje
+- P. Hallberg
+- P. E. Hesla
+- D. Rye
+- Z. Pelin
+- L. Ferini-Strambi
+- C. L. Bassetti
+- J. Mathis
+- R. Khatami
+- A. Aran
+- S. Nampoothiri
+- T. Olsson
+- I. Kockum
+- M. Partinen
+- M. Perola
+- B. R. Kornum
+- S. Rueger
+- J. Winkelmann
+- T. Miyagawa
+- H. Toyoda
+- S. S. Khor
+- M. Shimada
+- K. Tokunaga
+- M. Rivas
+- J. K. Pritchard
+- N. Risch
+- Z. Kutalik
+- R. O'Hara
+- J. Hallmayer
+- C. J. Ye
+- E. J. Mignot
+- T. D. Als
+- A. Ziemann
+- A. Abbasi
+- A. Lehtonen
+- A. Lertratanakul
+- B. Riley-Gillis
+- F. Rahimov
+- H. Jacob
+- J. Waring
+- M. Liu
+- N. Smaoui
+- R. Popovic
+- A. Platt
+- A. Matakidou
+- B. Challis
+- D. Paul
+- G. Lassi
+- I. Tachmazidou
+- A. Hakanen
+- J. Schleutker
+- N. nen
+- P. Terho
+- P. Virolainen
+- A. Mannermaa
+- V. M. Kosma
+- C. Y. Chen
+- H. Runz
+- S. John
+- S. ä
+- S. Loomis
+- S. Eaton
+- G. Okafo
+- H. Salminen-Mankonen
+- M. Jung
+- N. Lawless
+- Z. Ding
+- J. Maranville
+- M. Hochfeld
+- R. Plenge
+- S. Biswas
+- M. Kanai
+- M. Maasha
+- W. Zhou
+- O. Tuovila
+- R. Pakkanen
+- J. Laukkanen
+- T. Kuopio
+- K. ki
+- A. kitie
+- N. Pujol
+- T. Laisk
+- K. ä
+- J. ä
+- M. Hautalahti
+- S. Smith
+- T. Southerington
+- E. Kangasniemi
+- H. Palin
+- M. nen
+- S. Siltanen
+- T. Laitinen
+- F. Vaura
+- J. Suvisaari
+- T. Niiranen
+- V. Salomaa
+- J. Partanen
+- M. Arvas
+- J. Ritari
+- K. rinen
+- D. Choy
+- E. Teng
+- E. Strauss
+- H. Chen
+- H. Chen
+- J. Schutzman
+- J. Hunkapiller
+- M. McCarthy
+- N. Bowers
+- R. Pendergrass
+- T. Lu
+- A. Chu
+- D. Kulkarni
+- F. Xu
+- J. Betts
+- J. Eicher
+- J. E. Gordillo
+- L. Addis
+- L. McCarthy
+- R. Mishra
+- J. Kumar
+- M. G. Ehm
+- K. Auro
+- D. Pulford
+- A. ranta
+- A. Loukola
+- E. Punkka
+- M. M. Linna
+- O. n
+- T. Raivio
+- J. A. Turunen
+- T. P. ä
+- A. Salminen
+- A. Aarnisalo
+- D. Gordin
+- D. Rice
+- E. ä
+- E. Salminen
+- H. Joensuu
+- I. Kalliala
+- J. Mattson
+- J. Sinisalo
+- J. Koskela
+- K. Eklund
+- K. Hannula-Jouppi
+- L. Aaltonen
+- M. R. Taskinen
+- M. ä
+- M. Raivio
+- O. Heikinheimo
+- P. Kauppi
+- P. Nieminen
+- P. Tienari
+- P. Pussinen
+- S. Pikkarainen
+- T. Ollila
+- T. Tuomi
+- T. Hiltunen
+- T. Meretoja
+- T. Salo
+- U. Palotie
+- A. ki
+- J. Aittokallio
+- J. Rinne
+- K. rinne
+- K. Elenius
+- L. ä
+- L. Koulu
+- M. Voutilainen
+- R. Lahesmaa
+- R. ä
+- S. Peltonen
+- T. Willberg
+- U. Gursoy
+- V. Jokimaa
+- A. Palotie
+- A. ä
+- A. Ganna
+- A. Jalanko
+- A. Liu
+- A. Lehisto
+- A. Ghazal
+- E. inen
+- E. Widen
+- E. Saarentaus
+- E. nen
+- H. Ollila
+- H. Laivuori
+- H. Heyne
+- H. Y. Shen
+- J. Kaprio
+- J. ö
+- J. Karjalainen
+- J. Mehtonen
+- J. nen
+- K. rn
+- K. Donner
+- K. Kivinen
+- L. E. Lahtela
+- M. E. Niemi
+- M. Kaunisto
+- M. Kals
+- M. P. Reeve
+- M. Aavikko
+- N. Mars
+- O. A. Dada
+- P. Della Briotta Parolo
+- P. Palta
+- R. Weldatsadik
+- R. Kajanne
+- R. Rodosthenous
+- S. Ripatti
+- S. Ruotsalainen
+- S. Strausz
+- S. Hassan
+- S. S. Padmanabhuni
+- S. Luo
+- S. ä
+- T. Tukiainen
+- T. P. ä
+- T. Kiiskinen
+- V. Llorens
+- M. Daly
+- J. Lee
+- K. Tsuo
+- M. Kurki
+- A. Elliott
+- A. Havulinna
+- J. Partanen
+- R. Yang
+- D. Reilly
+- A. Porello
+- A. Hart
+- D. Waterworth
+- E. Khramtsova
+- K. He
+- M. Guan
+- Q. S. Li
+- S. Vuoti
+- E. Green
+- R. Graham
+- S. Mozaffari
+- A. Huertas-Vazquez
+- A. Loboda
+- C. Fox
+- F. Farias
+- J. H. Sul
+- J. Miller
+- N. Raghavan
+- S. Longerich
+- J. Kettunen
+- R. Serpi
+- R. Hinttala
+- T. Mantere
+- A. Remes
+- E. Rahikkala
+- J. Huhtakangas
+- K. Tasanen
+- L. Huilaja
+- L. Morin-Papunen
+- M. ki
+- M. ki
+- O. Uimari
+- P. Karihtala
+- T. Piltonen
+- T. Harju
+- T. Blomster
+- V. Anttonen
+- H. Soininen
+- K. Kaarniranta
+- L. Suominen
+- M. Pelkonen
+- M. Siponen
+- M. Kiviniemi
+- O. nen
+- P. Auvinen
+- P. ä
+- R. inen
+- V. Julkunen
+- C. O'Donnell
+- M. E. Obeidat
+- N. Renaud
+- D. Ngo
+- M. Mouded
+- M. Mendelson
+- A. larstig
+- H. Lehtonen
+- J. Parkkinen
+- K. Kalpala
+- M. Miller
+- N. Bing
+- S. McDonough
+- X. Hu
+- Y. Wu
+- A. Jussila
+- A. Auranen
+- A. Bizaki-Vallaskangas
+- H. Uusitalo
+- J. Peltola
+- J. Hernesniemi
+- K. Kaukinen
+- L. Kotaniemi-Talonen
+- P. ki
+- T. Salmi
+- V. Kurra
+- K. ä
+- A. Toivola
+- E. rvensivu
+- E. Kaiharju
+- H. Mattsson
+- K. Kristiansson
+- L. ö
+- M. Laukkanen
+- M. Perola
+- M. Brunfeldt
+- P. Laiho
+- R. Wong
+- S. Koskelainen
+- S. ki
+- S. Soini
+- T. Paajanen
+- T. Kilpi
+- T. Hiekkalinna
+- T. Sistonen
+- C. Chatelain
+- D. Raipal
+- K. Klinger
+- S. Lessard
+- F. berg
+- M. Hiltunen
+- S. Heikkinen
+- H. Kankaanranta
+- T. Palotie
+- I. Hovatta
+- K. Palin
+- N. ki
+- S. Toppila-Salmi
+- E. Laakkonen
+- E. Sliz
+- H. Silven
+- K. s
+- M. Karjalainen
+- R. Arffman
+- S. Savukoski
+- J. Tyrmi
+- M. Rivas
+- H. Siirtola
+- I. talo
+- J. Garcia-Tabuenca
+- M. Niemi
+- M. Helminen
+- T. Luukkaala
+tags: []
+categories: []
+date: '2023-05-01'
+lastmod: 2023-06-01T09:52:54+03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-06-01T06:52:53.970282Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*Nat Commun*'
+---
