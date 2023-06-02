@@ -15,7 +15,7 @@ projects: []
 subtitle: ""
 summary: " "
 tags: []
-title: "Felix Vaura defended doctoral thesis" 
+title: "Felix Vaura defended his doctoral thesis" 
 ---
 
 Felix Vaura defended his doctoral thesis *"Phenotypic and genetic subtyping of hypertension – toward personalized hypertension care"*. 
