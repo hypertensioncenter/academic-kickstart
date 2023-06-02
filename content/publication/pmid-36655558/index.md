@@ -1,0 +1,536 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: 'Genetic Risk Score for Intracranial Aneurysms: Prediction of Subarachnoid
+  Hemorrhage and Role in Clinical Heterogeneity'
+subtitle: ''
+summary: ''
+authors:
+- M. K. Bakker
+- J. P. Kanning
+- G. Abraham
+- A. E. Martinsen
+- B. S. Winsvold
+- J. A. Zwart
+- R. Bourcier
+- T. Sawada
+- M. Koido
+- Y. Kamatani
+- S. Morel
+- P. Amouyel
+- S. Debette
+- P. Bijlenga
+- T. Berrandou
+- S. K. Ganesh
+- N. Bouatia-Naji
+- G. Jones
+- M. Bown
+- G. J. E. Rinkel
+- J. H. Veldink
+- Y. M. Ruigrok
+- A. Hege Aamodt
+- A. Heidi Skogholt
+- B. M. Brumpton
+- C. J. Willer
+- E. C. Sandset
+- E. S. Kristoffersen
+- H. r
+- I. Heuch
+- J. B. Nielsen
+- K. Hagen
+- K. Hveem
+- L. G. Fritsche
+- L. F. Thomas
+- L. M. Pedersen
+- M. E. Gabrielsen
+- O. L. Holmen
+- S. rte
+- W. Zhou
+- S. Abboud
+- M. Pandolfo
+- V. Thijs
+- D. Leys
+- M. Bodenant
+- F. Louillet
+- E. é
+- J. L. Mas
+- Y. Samson
+- S. Leder
+- A. ger
+- S. Deltour
+- S. Crozier
+- I. resse
+- S. Canaple
+- O. Godefroy
+- M. Giroud
+- Y. jot
+- P. Decavel
+- E. Medeiros
+- P. Montiel
+- T. Moulin
+- F. Vuillier
+- J. Dallongeville
+- A. J. Metso
+- T. Metso
+- T. Tatlisumak
+- C. Grond-Ginsbach
+- C. Lichy
+- M. Kloss
+- I. Werner
+- M. L. Arnold
+- M. Dos Santos
+- A. Grau
+- M. Dichgans
+- C. Thomas-Feles
+- R. Weber
+- T. Brandt
+- A. Pezzini
+- V. De Giuli
+- F. Caria
+- L. Poli
+- A. Padovani
+- A. Bersano
+- S. Lanfranconi
+- S. Beretta
+- C. Ferrarese
+- G. Giacolone
+- S. Paolucci
+- P. Lyrer
+- S. Engelter
+- F. Fluri
+- F. Hatz
+- D. Gisler
+- L. Bonati
+- H. Gensicke
+- M. Amort
+- H. Markus
+- J. Majersik
+- B. Worrall
+- A. Southerland
+- J. Cole
+- S. Kittner
+- E. Evangelou
+- H. R. Warren
+- H. Gao
+- G. Ntritsos
+- N. Dimou
+- T. Esko
+- R. gi
+- L. Milani
+- P. Almgren
+- T. Boutin
+- J. Ding
+- F. Giulianini
+- E. G. Holliday
+- A. U. Jackson
+- R. Li-Gao
+- W. Y. Lin
+- J. Luan
+- M. Mangino
+- C. Oldmeadow
+- B. Peter Prins
+- Y. Qian
+- M. Sargurupremraj
+- N. Shah
+- P. Surendran
+- S. riault
+- N. Verweij
+- S. M. Willems
+- J. H. Zhao
+- J. Connell
+- R. de Mutsert
+- A. S. Doney
+- M. Farrall
+- C. Menni
+- A. D. Morris
+- R. Noordam
+- G. é
+- N. R. Poulter
+- D. C. Shields
+- A. Stanton
+- S. Thom
+- G. Abecasis
+- N. Amin
+- D. E. Arking
+- K. L. Ayers
+- C. M. Barbieri
+- C. Batini
+- J. C. Bis
+- T. Blake
+- M. Bochud
+- M. Boehnke
+- E. Boerwinkle
+- D. I. Boomsma
+- E. P. Bottinger
+- P. S. Braund
+- M. Brumat
+- A. Campbell
+- H. Campbell
+- A. Chakravarti
+- J. C. Chambers
+- G. Chauhan
+- M. Ciullo
+- M. Cocca
+- F. Collins
+- H. J. Cordell
+- G. Davies
+- M. H. de Borst
+- E. J. de Geus
+- I. J. Deary
+- J. Deelen
+- F. Del Greco M
+- C. Yusuf Demirkale
+- M. rr
+- G. B. Ehret
+- R. Elosua
+- S. Enroth
+- A. Mesut Erzurumluoglu
+- T. Ferreira
+- M. nberg
+- O. H. Franco
+- I. Gandin
+- P. Gasparini
+- V. Giedraitis
+- C. Gieger
+- G. Girotto
+- A. Goel
+- A. J. Gow
+- V. Gudnason
+- X. Guo
+- U. Gyllensten
+- A. Hamsten
+- T. B. Harris
+- S. E. Harris
+- C. A. Hartman
+- A. S. Havulinna
+- A. A. Hicks
+- E. Hofer
+- A. Hofman
+- J. J. Hottenga
+- J. E. Huffman
+- S. J. Hwang
+- E. Ingelsson
+- A. James
+- R. Jansen
+- M. R. Jarvelin
+- R. Joehanes
+- Å. Johansson
+- A. D. Johnson
+- P. K. Joshi
+- P. Jousilahti
+- J. Wouter Jukema
+- A. Jula
+- M. nen
+- S. Kathiresan
+- B. D. Keavney
+- K. T. Khaw
+- P. Knekt
+- J. Knight
+- I. Kolcic
+- J. S. Kooner
+- S. Koskinen
+- K. Kristiansson
+- Z. Kutalik
+- M. Laan
+- M. Larson
+- L. J. Launer
+- B. Lehne
+- T. ki
+- D. C. Liewald
+- L. Lin
+- L. Lind
+- C. M. Lindgren
+- Y. Liu
+- R. J. Loos
+- L. M. Lopez
+- Y. Lu
+- L. P. inen
+- A. Mahajan
+- C. Mamasoula
+- J. Marrugat
+- J. Marten
+- Y. Milaneschi
+- A. Morgan
+- A. P. Morris
+- A. C. Morrison
+- P. J. Munson
+- M. A. Nalls
+- P. Nandakumar
+- C. P. Nelson
+- T. Niiranen
+- I. M. Nolte
+- T. Nutile
+- A. J. Oldehinkel
+- B. A. Oostra
+- P. F. O'Reilly
+- E. Org
+- S. Padmanabhan
+- W. Palmas
+- A. Palotie
+- A. Pattie
+- B. Wjh Penninx
+- M. Perola
+- A. Peters
+- O. Polasek
+- P. P. Pramstaller
+- Q. Tri Nguyen
+- O. T. Raitakari
+- R. Rettig
+- K. Rice
+- P. M. Ridker
+- J. S. Ried
+- H. Riese
+- S. Ripatti
+- A. Robino
+- L. M. Rose
+- J. I. Rotter
+- I. Rudan
+- D. Ruggiero
+- Y. Saba
+- C. F. Sala
+- V. Salomaa
+- N. J. Samani
+- A. P. Sarin
+- R. Schmidt
+- H. Schmidt
+- N. Shrine
+- D. Siscovick
+- A. V. Smith
+- H. Snieder
+- S. ber
+- R. Sorice
+- J. M. Starr
+- D. J. Stott
+- D. P. Strachan
+- R. J. Strawbridge
+- J. m
+- M. A. Swertz
+- K. D. Taylor
+- A. Teumer
+- M. D. Tobin
+- M. Tomaszewski
+- D. Toniolo
+- M. Traglia
+- S. Trompet
+- J. Tuomilehto
+- C. Tzourio
+- A. G. Uitterlinden
+- A. Vaez
+- P. J. van der Most
+- C. M. van Duijn
+- G. C. Verwoert
+- V. Vitart
+- U. lker
+- P. Vollenweider
+- D. Vuckovic
+- H. Watkins
+- S. H. Wild
+- G. Willemsen
+- J. F. Wilson
+- A. F. Wright
+- J. Yao
+- T. Zemunik
+- W. Zhang
+- J. R. Attia
+- A. S. Butterworth
+- D. I. Chasman
+- D. Conen
+- F. Cucca
+- J. Danesh
+- C. Hayward
+- J. M. Howson
+- M. Laakso
+- E. G. Lakatta
+- C. Langenberg
+- O. Melander
+- D. O. Mook-Kanamori
+- C. N. Palmer
+- L. Risch
+- R. A. Scott
+- R. J. Scott
+- P. Sever
+- T. D. Spector
+- P. van der Harst
+- N. J. Wareham
+- E. Zeggini
+- D. Levy
+- P. B. Munroe
+- C. Newton-Cheh
+- M. J. Brown
+- A. Metspalu
+- B. M. Psaty
+- L. V. Wain
+- P. Elliott
+- M. J. Caulfield
+- P. Gormley
+- V. Anttila
+- P. Palta
+- T. Esko
+- T. H. Pers
+- K. H. Farh
+- E. Cuenca-Leon
+- M. Muona
+- N. A. Furlotte
+- T. Kurth
+- A. Ingason
+- G. McMahon
+- L. Ligthart
+- G. M. Terwindt
+- M. Kallela
+- T. M. Freilinger
+- C. Ran
+- S. G. Gordon
+- A. H. Stam
+- S. Steinberg
+- G. Borck
+- M. Koiranen
+- L. Quaye
+- H. H. H. Adams
+- T. ki
+- A. P. Sarin
+- J. Wedenoja
+- D. A. Hinds
+- J. E. Buring
+- M. rks
+- P. M. Ridker
+- M. Gudlaug Hrafnsdottir
+- H. Stefansson
+- S. M. Ring
+- J. J. Hottenga
+- B. W. J. H. Penninx
+- M. ä
+- V. Artto
+- M. Kaunisto
+- S. inen
+- R. Malik
+- A. C. Heath
+- P. A. F. Madden
+- N. G. Martin
+- G. W. Montgomery
+- M. I. Kurki
+- M. Kals
+- R. gi
+- K. rn
+- E. inen
+- H. Huang
+- A. E. Byrnes
+- L. Franke
+- J. Huang
+- E. Stergiakouli
+- P. H. Lee
+- C. Sandor
+- C. Webber
+- Z. Cader
+- B. Muller-Myhsok
+- S. Schreiber
+- T. Meitinger
+- J. G. Eriksson
+- V. Salomaa
+- K. ä
+- E. Loehrer
+- A. G. Uitterlinden
+- A. Hofman
+- C. M. van Duijn
+- L. Cherkas
+- L. M. Pedersen
+- A. Stubhaug
+- C. S. Nielsen
+- M. ö
+- E. Mihailov
+- L. Milani
+- H. bel
+- A. L. Esserlind
+- A. Francke Christensen
+- T. Folkmann Hansen
+- T. Werge
+- J. Kaprio
+- A. J. Aromaa
+- O. Raitakari
+- M. Arfan Ikram
+- T. Spector
+- M. R. rvelin
+- A. Metspalu
+- C. Kubisch
+- D. P. Strachan
+- M. D. Ferrari
+- A. C. Belin
+- M. Dichgans
+- M. Wessman
+- A. M. J. M. van den Maagdenberg
+- D. I. Boomsma
+- G. Davey Smith
+- K. Stefansson
+- N. Eriksson
+- M. J. Daly
+- B. M. Neale
+- J. Olesen
+- D. I. Chasman
+- D. R. Nyholt
+- A. Palotie
+- M. Akiyama
+- V. S. Alg
+- S. rte
+- J. P. Broderick
+- B. M. Brumpton
+- J. Dauvillier
+- H. Desal
+- C. Dina
+- C. M. Friedrich
+- E. I. l-Paavola
+- J. C. Gentric
+- S. Hirsch
+- I. C. Hostettler
+- H. Houlden
+- K. Hveem
+- J. E. inen
+- M. B. Johnsen
+- L. Li
+- K. Lin
+- A. Lindgren
+- O. Martin
+- K. Matsuda
+- I. Y. Millwood
+- O. Naggara
+- M. ä
+- J. Pera
+- R. Redon
+- G. A. Rouleau
+- M. S. Sandvei
+- S. Schilling
+- E. Shotar
+- A. Slowik
+- C. Terao
+- W. M. M. Verschuren
+- R. G. Walters
+- D. J. Werring
+- C. J. Willer
+- D. Woo
+- B. B. Worrall
+- S. Zhou
+tags: []
+categories: []
+date: '2023-03-01'
+lastmod: 2023-06-01T09:53:05+03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-06-01T06:53:04.909072Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*Stroke*'
+---
