@@ -1,0 +1,364 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: A FinnGen pilot clinical recall study for Alzheimer's disease
+subtitle: ''
+summary: ''
+authors:
+- V. Julkunen
+- C. Schwarz
+- J. Kalapudas
+- M. Hallikainen
+- A. K. Piironen
+- A. Mannermaa
+- H. Kujala
+- T. Laitinen
+- V. M. Kosma
+- T. I. Paajanen
+- R. inen
+- M. Hiltunen
+- S. K. Herukka
+- S. inen
+- T. Kokkola
+- M. Urjansson
+- M. Perola
+- A. Palotie
+- E. Vuoksimaa
+- H. Runz
+- H. Soininen
+- S. Heikkinen
+- T. P. ä
+- A. ä
+- A. Ganna
+- A. Jalanko
+- A. Liu
+- A. Lehisto
+- A. Ghazal
+- E. inen
+- E. Widen
+- E. Saarentaus
+- E. nen
+- H. Ollila
+- H. Laivuori
+- H. Heyne
+- H. Y. Shen
+- J. ö
+- J. Karjalainen
+- J. Mehtonen
+- J. nen
+- K. rn
+- K. Kivinen
+- E. L. Lahtela
+- M. E. Niemi
+- M. Kaunisto
+- M. Kals
+- M. P. Reeve
+- M. Aavikko
+- N. Mars
+- O. A. Dada
+- P. D. B. Parolo
+- P. Palta
+- R. Weldatsadik
+- R. Kajanne
+- R. Rodosthenous
+- S. Ripatti
+- S. Ruotsalainen
+- S. Strausz
+- S. Hassan
+- S. S. Padmanabhuni
+- S. Luo
+- S. ä
+- T. Tukiainen
+- T. P. ä
+- T. Kiiskinen
+- V. Llorens
+- J. Partanen
+- A. Havulinna
+- J. Lee
+- K. Tsuo
+- M. Kurki
+- F. Vaura
+- J. Suvisaari
+- T. Niiranen
+- V. Salomaa
+- C. Y. Chen
+- S. John
+- S. ä
+- S. Loomis
+- S. Eaton
+- A. Ziemann
+- A. Abbasi
+- A. Lehtonen
+- A. Lertratanakul
+- B. Riley-Gillis
+- F. Rahimov
+- H. Jacob
+- J. Waring
+- M. Liu
+- N. Smaoui
+- R. Popovic
+- A. Matakidou
+- B. Challis
+- D. Paul
+- G. Lassi
+- I. Tachmazidou
+- A. Platt
+- G. Okafo
+- H. Salminen-Mankonen
+- M. Jung
+- N. Lawless
+- Z. Ding
+- J. Maranville
+- M. Hochfeld
+- R. Plenge
+- S. Biswas
+- D. Choy
+- E. Teng
+- E. Strauss
+- H. Chen
+- H. Chen
+- J. Schutzman
+- J. Hunkapiller
+- M. McCarthy
+- N. Bowers
+- R. Pendergrass
+- T. Lu
+- J. Kumar
+- M. G. Ehm
+- D. Pulford
+- A. Huertas-Vazquez
+- C. Fox
+- J. H. Sul
+- N. Raghavan
+- S. Longerich
+- A. larstig
+- H. Lehtonen
+- J. Parkkinen
+- K. Kalpala
+- M. Miller
+- N. Bing
+- S. McDonough
+- X. Hu
+- Y. Wu
+- C. Chatelain
+- D. Raipal
+- K. Klinger
+- S. Lessard
+- E. Green
+- R. Graham
+- S. Mozaffari
+- R. Yang
+- A. Porello
+- A. Hart
+- D. Waterworth
+- E. Khramtsova
+- K. He
+- M. Guan
+- Q. S. Li
+- C. O'Donnell
+- M. Obeidat
+- N. Renaud
+- J. Schleutker
+- A. Hakanen
+- N. nen
+- P. Terho
+- P. Virolainen
+- A. Toivola
+- E. rvensivu
+- E. Kaiharju
+- H. Mattsson
+- K. Kristiansson
+- L. ö
+- M. Laukkanen
+- M. Brunfeldt
+- P. Laiho
+- R. Wong
+- S. Koskelainen
+- S. ki
+- S. Soini
+- T. Kilpi
+- T. Hiekkalinna
+- T. Sistonen
+- J. Partanen
+- M. Arvas
+- A. ranta
+- A. Loukola
+- E. Punkka
+- M. M. Linna
+- O. n
+- T. Raivio
+- J. Kettunen
+- R. Serpi
+- R. Hinttala
+- T. Mantere
+- E. Kangasniemi
+- H. Palin
+- M. nen
+- S. Siltanen
+- T. Laitinen
+- J. Laukkanen
+- T. Kuopio
+- J. ä
+- M. Hautalahti
+- O. Tuovila
+- R. Pakkanen
+- K. ä
+- M. Daly
+- A. Elliott
+- T. D. Als
+- M. Kanai
+- M. Maasha
+- W. Zhou
+- K. ki
+- A. kitie
+- N. Pujol
+- T. Laisk
+- J. Ritari
+- K. rinen
+- A. Chu
+- D. Kulkarni
+- F. Xu
+- J. Betts
+- J. Eicher
+- J. E. Gordillo
+- L. Addis
+- L. McCarthy
+- R. Mishra
+- K. Auro
+- J. A. Turunen
+- A. Salminen
+- A. Aarnisalo
+- D. Gordin
+- D. Rice
+- E. ä
+- E. Salminen
+- H. Joensuu
+- I. Kalliala
+- J. Mattson
+- J. Sinisalo
+- J. Koskela
+- K. Eklund
+- K. Hannula-Jouppi
+- L. Aaltonen
+- M. R. Taskinen
+- M. ä
+- M. Raivio
+- O. Heikinheimo
+- P. Kauppi
+- P. Nieminen
+- P. Tienari
+- P. Pussinen
+- S. Pikkarainen
+- T. Ollila
+- T. Tuomi
+- T. Hiltunen
+- T. Meretoja
+- T. Salo
+- U. Palotie
+- A. ki
+- J. Aittokallio
+- J. Rinne
+- K. rinne
+- K. Elenius
+- L. ä
+- L. Koulu
+- M. Voutilainen
+- R. Lahesmaa
+- R. ä
+- S. Peltonen
+- T. Willberg
+- U. Gursoy
+- V. Jokimaa
+- K. Donner
+- D. Reilly
+- S. Vuoti
+- A. Loboda
+- F. Farias
+- J. Miller
+- A. Remes
+- E. Rahikkala
+- J. Huhtakangas
+- K. Tasanen
+- L. Huilaja
+- L. Morin-Papunen
+- M. ki
+- M. ki
+- O. Uimari
+- P. Karihtala
+- T. Piltonen
+- T. Harju
+- T. Blomster
+- V. Anttonen
+- K. Kaarniranta
+- L. Suominen
+- M. Pelkonen
+- M. Siponen
+- M. Kiviniemi
+- O. nen
+- P. Auvinen
+- P. ä
+- D. Ngo
+- M. Mouded
+- M. Mendelson
+- A. Auranen
+- A. Jussila
+- A. Bizaki-Vallaskangas
+- H. Uusitalo
+- J. Peltola
+- J. Hernesniemi
+- K. Kaukinen
+- L. Kotaniemi-Talonen
+- P. ki
+- T. Salmi
+- V. Kurra
+- K. ä
+- F. berg
+- H. Kankaanranta
+- T. Palotie
+- I. Hovatta
+- S. Toppila-Salmi
+- K. Palin
+- N. ki
+- E. Laakkonen
+- E. Laakkonen
+- E. Sliz
+- H. Silven
+- K. s
+- M. Karjalainen
+- R. Arffman
+- S. Savukoski
+- J. Tyrmi
+- M. Rivas
+- H. Siirtola
+- I. talo
+- J. Garcia-Tabuenca
+- M. Niemi
+- M. Helminen
+- T. Luukkaala
+tags: []
+categories: []
+date: '2023-08-01'
+lastmod: 2023-12-01T10:11:48+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-01T08:11:47.043510Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*Sci Rep*'
+---
