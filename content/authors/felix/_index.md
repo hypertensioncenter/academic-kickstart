@@ -25,7 +25,7 @@ name: Felix Vaura
 #organizations:
 #- name: ""
 #  url: ""
-role: Post-Doctoral Researcher
+role: Post-Doctoral Researcher, Finnish Institute for Molecular Medicine
 social:
 #- icon: envelope
 #  icon_pack: fas

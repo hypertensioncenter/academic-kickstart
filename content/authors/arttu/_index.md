@@ -22,7 +22,7 @@ interests:
 #- Geriatrician
 #- Hypertension
 #- Multi-omics
-name: Arttu Lehtonen
+name: Arttu Lehtonen, Turku City Hospital
 #organizations:
 #- name: ""
 #  url: ""

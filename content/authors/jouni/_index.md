@@ -26,7 +26,7 @@ name: Jouni Johansson
 #organizations:
 #- name: ""
 #  url: ""
-role: Adjunct professor, General practitioner
+role: Adjunct professor, General practitioner, City of Turku
 social:
 #- icon: envelope
 #  icon_pack: fas

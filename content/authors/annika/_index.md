@@ -26,7 +26,7 @@ name: Annika Lindroos
 #organizations:
 #- name: ""
 #  url: ""
-role: Nephrology fellow
+role: Nephrology fellow, Turku University Hospital
 social:
 #- icon: envelope
 #  icon_pack: fas
