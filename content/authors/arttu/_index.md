@@ -22,11 +22,11 @@ interests:
 #- Geriatrician
 #- Hypertension
 #- Multi-omics
-name: Arttu Lehtonen, Turku City Hospital
+name: Arttu Lehtonen
 #organizations:
 #- name: ""
 #  url: ""
-role: Geriatrician
+role: Geriatrician, Turku City Hospital
 social:
 #- icon: envelope
 #  icon_pack: fas
