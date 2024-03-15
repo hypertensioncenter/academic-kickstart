@@ -19,14 +19,12 @@ authors:
 #    year: 2005
 #email: "tejuni@utu.fi"
 interests:
-#- Internal Medicine Resident
-#- Hypertension
-#- Multi-omics
+- Early-onset hypertension
 name: Karri Suvila
 #organizations:
 #- name: ""
 #  url: ""
-role: Internal Medicine Resident
+#role:
 social:
 #- icon: envelope
 #  icon_pack: fas

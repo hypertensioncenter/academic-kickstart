@@ -19,14 +19,12 @@ authors:
 #    year: 2005
 #email: "tejuni@utu.fi"
 interests:
-- Statistics
-- Bioinformatics
 #- Multi-omics
 name: Anni Kauko
 #organizations:
 #- name: ""
 #  url: ""
-#role: Post-Doctoral Researcher
+role: Bioinformatician, InFLAMES
 social:
 #- icon: envelope
 #  icon_pack: fas
