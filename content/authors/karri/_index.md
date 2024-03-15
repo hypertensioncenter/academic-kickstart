@@ -42,5 +42,5 @@ social:
 #  link: https://github.com/gcushen
 superuser: false
 user_groups:
-- Alumni
+- Researchers
 ---
