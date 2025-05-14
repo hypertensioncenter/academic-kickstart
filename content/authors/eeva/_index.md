@@ -26,7 +26,7 @@ name: Eeva Juhanoja
 #organizations:
 #- name: ""
 #  url: ""
-role: Oncologist
+role: Oncologist, Turku University Hospital
 social:
 #- icon: envelope
 #  icon_pack: fas
