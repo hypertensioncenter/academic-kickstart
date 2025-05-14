@@ -18,7 +18,7 @@ authors:
 #    institution: University of Turku
 #    year: 2005
 #email: "tejuni@utu.fi"
-interests:
+#interests:
 - Retirement and blood pressure
 #- Hypertension
 #- Multi-omics
@@ -26,7 +26,7 @@ name: Saana Karelius
 #organizations:
 #- name: ""
 #  url: ""
-#role: Post-Doctoral Researcher
+role: Internist
 social:
 #- icon: envelope
 #  icon_pack: fas
